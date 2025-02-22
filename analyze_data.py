@@ -2,6 +2,7 @@ import re
 from collections import Counter
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+from matplotlib.backends.backend_pdf import PdfPages
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 import nltk
@@ -40,25 +41,29 @@ lemmatized_tokens = [lemmatizer.lemmatize(word.lower()) for word in tokens]
 # Define custom words to remove
 custom_stop_words = set([
     "year", "years", "work", "using", "new", "understand", "understanding", "experience", "knowledge", "skills", "ability", "must", "have", "with", "the", "and", "or", "to", "a", "in", "of", "for", "on", "as", "is", "are",
-    "software", "development", "technology", "strong", "design", "business", "computer", "project", "engineering", "technical", "application", "related", "environment", "solution", "bachelor",
-    "preferred", "problem", "excellent", "plus", "communication", "practice", "process", "working", "including", "tool", "written",
-    "skill", "team", "support", "science", "life", "basic", "best", "within", "required", "approach",
-    "familiarity", "equivalent", "industry", "build", "role", "service", "field",
-    "academic", "cumulative", "gpa", "company", "government", "agency", "perform", "tech", "technology", "companies", "skillstorm", "built", "paid", "government", "agencies", "enterprise",
-    "oriented", "window", "user", "company", "requirement", "professional",
+    "software", "development", "technology", "strong", "design", "business", "computer", "project", "engineering", "technical", "system", "application", "degree", "related", "environment", "solution", "bachelor",
+    "preferred", "data", "problem", "excellent", "plus", "communication", "practice", "process", "working", "including", "tool", "written",
+    "skill", "team", "support", "science", "life", "basic", "best", "within", "security", "required", "approach",
+    "familiarity", "equivalent", "learn", "industry", "build", "role", "service", "field",
+    "academic", "cumulative", "gpa", "company", "government", "agency", "perform", "tech", "technology", "companies", "clients", "skillstorm", "built", "paid", "government", "agencies", "enterprise",
+    "oriented", "window", "user", "company", "collaboration", "requirement", "professional",
     "management", "information", "cycle", "proficiency", "methodology", "verbal", "proficient", "one", "platform",
     "office", "developing", "programming", "use", "level", "training", "partner", "effective",
     "position", "equal", "greater", "open", "language",
-    "procedure", "delivery", "general", "issue", "implement", "product", "salary", "configuration",
-    "production", "scope", "complex", "expert", "similar", "etc", "benefit",
-    "relevant", "time", "need", "following", "provide", "vision", 
-    "demonstrated", "education", "combination", "view", "system", "degree", "coding"
+    "procedure", "delivery", "general", "issue",
+    "and/or", "'s", "2+", "hands-on", "etc.", "on-site", "framework",
+    "coding", "time", "ii", "configuration", "product", "scripting",
+    "provide", "production", "implement", "code", "vision", "developer",
+    "stack", "person", "complex", "well", "result", "need", "analytical",
+    "benefit", "etc", "combination", "education", "similar"
 ])
 
 # Remove stopwords and custom words
 stop_words = set(stopwords.words('english'))
 all_stop_words = stop_words.union(custom_stop_words)
-filtered_tokens = [word for word in lemmatized_tokens if word not in all_stop_words and word.isalnum()]
+
+# Filter tokens: keep words with at least one alphanumeric character and not in stopwords
+filtered_tokens = [word for word in lemmatized_tokens if word not in all_stop_words and re.search(r'\w', word)]
 
 # Debugging: Print filtered tokens to verify stopwords removal
 print("Filtered tokens:", filtered_tokens)
@@ -66,8 +71,26 @@ print("Filtered tokens:", filtered_tokens)
 # Frequency Analysis
 def frequency_analysis(tokens):
     frequency = Counter(tokens)
-    print("Most common tokens:")
-    print(frequency.most_common(20))
+    most_common = frequency.most_common(20)
+    words, counts = zip(*most_common)
+    
+    # Bar Graph
+    plt.figure(figsize=(10, 5))
+    plt.bar(words, counts)
+    plt.xlabel('Skills')
+    plt.ylabel('Frequency')
+    plt.title('Most Common Skills in Requirements')
+    plt.xticks(rotation=90)
+    plt.savefig(pdf, format='pdf')
+    plt.close()
+    
+    # Pie Chart
+    plt.figure(figsize=(10, 5))
+    plt.pie(counts, labels=words, autopct='%1.1f%%', startangle=140)
+    plt.axis('equal')
+    plt.title('Most Common Skills in Requirements')
+    plt.savefig(pdf, format='pdf')
+    plt.close()
 
 # Word Cloud
 def generate_word_cloud(text):
@@ -75,7 +98,9 @@ def generate_word_cloud(text):
     plt.figure(figsize=(10, 5))
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')
-    plt.show()
+    plt.title('Word Cloud of Skills in Requirements')
+    plt.savefig(pdf, format='pdf')
+    plt.close()
 
 # Skill Clustering
 def skill_clustering(requirements):
@@ -96,11 +121,14 @@ def ngram_analysis(tokens, n=2):
     print(f"Most common {n}-grams:")
     print(ngram_frequency.most_common(20))
 
+# Save all plots to a single PDF file
+with PdfPages('requirements_analysis.pdf') as pdf:
+    frequency_analysis(filtered_tokens)
+    generate_word_cloud(' '.join(filtered_tokens))
+
 # Perform the analyses
-frequency_analysis(filtered_tokens)
-generate_word_cloud(' '.join(filtered_tokens))
 skill_clustering(requirements)
 ngram_analysis(filtered_tokens, 2)  # Bigrams
 ngram_analysis(filtered_tokens, 3)  # Trigrams
-# ngram_analysis(filtered_tokens, 4)  # 4-grams
+ngram_analysis(filtered_tokens, 4)  # 4-grams
 # ngram_analysis(filtered_tokens, 5)  # 5-grams
