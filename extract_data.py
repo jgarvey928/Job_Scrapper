@@ -135,7 +135,7 @@ def extract_csv(input_file, output_file):
                 index += 1
 
 # Define input and output file names
-input_csv = 'job_listings6.csv'
+input_csv = 'job_us_listings1.csv'
 output_csv = 'extracted_job_listings.csv'
 
 extract_csv(input_csv, output_csv)
@@ -144,7 +144,7 @@ extract_csv(input_csv, output_csv)
 all_requirements = [req for req in all_requirements if req.strip()]
 
 # Open the text file for writing
-with open('job_requirements2.txt', mode='w', encoding='utf-8') as file:
+with open('job_us_requirements1.txt', mode='w', encoding='utf-8') as file:
     for req in all_requirements:
         print("+ "+req)  # Print to console
         file.write(req + "\n")  # Write to text file
