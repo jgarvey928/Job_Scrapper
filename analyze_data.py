@@ -12,13 +12,14 @@ from nltk.stem import WordNetLemmatizer
 from nltk import ngrams
 import random
 
-# Print NLTK data paths
-print("NLTK data paths:", nltk.data.path)
+# Global list to store top most frequent tokens
+top_skills = []
 
-# Ensure you have the necessary NLTK data
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
+def download_nltk_data():
+    # Ensure you have the necessary NLTK data
+    nltk.download('punkt')
+    nltk.download('stopwords')
+    nltk.download('wordnet')
 
 # Function to read requirements from the file
 def read_requirements(file_path):
@@ -26,68 +27,32 @@ def read_requirements(file_path):
         data = file.read()
     return data.split("\n__________________________________________________\n")
 
-# Load requirements from the file
-requirements = read_requirements('job_us_requirements2.txt')
-
-# Combine all requirements into a single list
-all_requirements_combined = ' '.join(requirements)
-
-# Tokenize the combined text
-tokens = word_tokenize(all_requirements_combined)
-
-# Lemmatization
-lemmatizer = WordNetLemmatizer()
-lemmatized_tokens = [lemmatizer.lemmatize(word.lower()) for word in tokens]
-
-# Define custom words to remove
-custom_stop_words = set([
-    "year", "years", "work", "using", "new", "understand", "understanding", "experience", "knowledge", "skills", "ability", "must", "have", "with", "the", "and", "or", "to", "a", "in", "of", "for", "on", "as", "is", "are",
-    "software", "development", "technology", "strong", "design", "business", "computer", "project", "engineering", "technical", "system", "application", "degree", "related", "environment", "solution", "bachelor",
-    "preferred", "data", "problem", "excellent", "plus", "communication", "practice", "process", "working", "including", "tool", "written",
-    "skill", "team", "support", "science", "life", "basic", "best", "within", "security", "required", "approach",
-    "familiarity", "equivalent", "learn", "industry", "build", "role", "service", "field",
-    "academic", "cumulative", "gpa", "company", "government", "agency", "perform", "tech", "technology", "companies", "clients", "skillstorm", "built", "paid", "government", "agencies", "enterprise",
-    "oriented", "user", "company", "collaboration", "requirement", "professional",
-    "management", "information", "cycle", "proficiency", "methodology", "verbal", "proficient", "one", "platform",
-    "office", "developing", "programming", "use", "level", "training", "partner", "effective",
-    "position", "equal", "greater", "open", "language",
-    "procedure", "delivery", "general", "issue",
-    "and/or", "'s", "2+", "hands-on", "etc.", "on-site", "framework",
-    "coding", "time", "ii", "configuration", "product", "scripting",
-    "provide", "production", "implement", "code", "vision",
-    "stack", "person", "complex", "well", "result", "need", "analytical",
-    "perform", "career", "contribute", "selected", "perform", "demonstrate", "develop", "desire",
-    "previous", "pattern", "performs", "demonstrated", "effectively","salary",
-    "benefit", "etc", "combination", "similar", "developer", "end",
-    "expertise", "like", "good", "core", "spring", "slack", "e.g.", "highly",
-    "learning", "performance", "deployment", "boot", "building"
-])
-
-# Remove stopwords and custom words
-stop_words = set(stopwords.words('english'))
-all_stop_words = stop_words.union(custom_stop_words)
-
-# Filter tokens: keep words with at least one alphanumeric character and not in stopwords
-filtered_tokens = [word for word in lemmatized_tokens if word not in all_stop_words and re.search(r'\w', word)]
-
-# Create less_filtered_tokens by removing periods, commas, "'s", and single character words
-less_filtered_tokens = [re.sub(r"\'s", '', re.sub(r'[.,]', '', word)) for word in tokens if len(word) > 1]
-
-# # Debugging: Print filtered tokens to verify stopwords removal
-# print("Filtered tokens:", filtered_tokens)
-# print("Less filtered tokens:", less_filtered_tokens)
-
-# Global list to store top 20 most frequent tokens
-top_skills = []
+# Function to combine similar words
+def combine_similar_words(tokens, word1, word2):
+    combined_tokens = []
+    for token in tokens:
+        if token == word1 or token == word2:
+            combined_tokens.append(word1)
+        else:
+            combined_tokens.append(token)
+    
+    return combined_tokens
 
 # Frequency Analysis
-def frequency_analysis(tokens):
-    global top_skills
-    frequency = Counter(tokens)
-    most_common = frequency.most_common(25)
+def frequency_analysis(tokens, num_top, pdf):
+
+    combined_tokens = combine_similar_words(tokens, 'frontend','front-end')
+    combined_tokens = combine_similar_words(combined_tokens, 'backend','back-end')  
+    combined_tokens = combine_similar_words(combined_tokens, 'apis','api')  
+    combined_tokens = combine_similar_words(combined_tokens, 'windows','window')  
+
+    frequency = Counter(combined_tokens)
+
+    most_common = frequency.most_common(num_top)
     words, counts = zip(*most_common)
     
-    # Store the top 20 most frequent tokens in the global list
+    global top_skills
+    # Store the top most frequent tokens in the global list
     top_skills = list(words)
     
     # Bar Graph
@@ -110,11 +75,11 @@ def frequency_analysis(tokens):
     plt.close()
 
 # Custom color function for word clouds
-def random_color_func(word, font_size, position, orientation, random_state=None, **kwargs):
+def random_color_func(word=None, font_size=None, position=None, orientation=None, random_state=None, **kwargs):
     return "hsl({}, {}%, {}%)".format(random.randint(0, 360), random.randint(50, 100), random.randint(25, 75))
 
 # Word Cloud
-def generate_word_cloud(text, title):
+def generate_word_cloud(text, title, pdf):
     wordcloud = WordCloud(width=800, height=400, background_color='white', color_func=random_color_func).generate(text)
     plt.figure(figsize=(10, 5))
     plt.imshow(wordcloud, interpolation='bilinear')
@@ -124,7 +89,7 @@ def generate_word_cloud(text, title):
     plt.close()
 
 # Skill Clustering
-def skill_clustering(requirements):
+def skill_clustering(requirements, pdf):
     vectorizer = TfidfVectorizer(stop_words='english')
     X = vectorizer.fit_transform(requirements)
     kmeans = KMeans(n_clusters=5, random_state=0).fit(X)
@@ -134,13 +99,13 @@ def skill_clustering(requirements):
     for i in range(5):
         cluster_terms = [terms[ind] for ind in order_centroids[i, :20]]
         cluster_text = ' '.join(cluster_terms)
-        generate_word_cloud(cluster_text, f'Word Cloud of Cluster {i}')
+        generate_word_cloud(cluster_text, f'Word Cloud of Cluster {i}', pdf)
 
 # N-gram Analysis
-def ngram_analysis(tokens, n=2):
+def ngram_analysis(tokens, n, num_top, pdf):
     n_grams = ngrams(tokens, n)
     ngram_frequency = Counter(n_grams)
-    most_common = ngram_frequency.most_common(20)
+    most_common = ngram_frequency.most_common(num_top)
     ngrams_list, counts = zip(*most_common)
     ngrams_labels = [' '.join(ngram) for ngram in ngrams_list]
     
@@ -152,17 +117,87 @@ def ngram_analysis(tokens, n=2):
     plt.savefig(pdf, format='pdf')
     plt.close()
 
-# Save all plots to a single PDF file
-with PdfPages('requirements_us_analysis2.pdf') as pdf:
-    frequency_analysis(filtered_tokens)
-    generate_word_cloud(' '.join(top_skills), 'Word Cloud of Top Skills')
-    generate_word_cloud(' '.join(filtered_tokens), 'Word Cloud of Skills in Requirements')
-    # skill_clustering(requirements)
-    ngram_analysis(less_filtered_tokens, 3)  # Bigrams
-    ngram_analysis(less_filtered_tokens, 4)  # Trigrams
-    ngram_analysis(less_filtered_tokens, 5)  # Trigrams
-    ngram_analysis(less_filtered_tokens, 6)  # 
-    ngram_analysis(less_filtered_tokens, 9)  #
+# Analyze Data
+def analyze_data(name_file):
+
+    download_nltk_data()
+
+    # Load requirements from the file
+    requirements = read_requirements('scrapped_data/'+name_file+'_reqs.txt')
+
+    # Combine all requirements into a single list
+    all_requirements_combined = ' '.join(requirements)
+
+    # Tokenize the combined text
+    tokens = word_tokenize(all_requirements_combined)
+
+    # Lemmatization and remove purely numeric tokens
+    lemmatizer = WordNetLemmatizer()
+    lemmatized_tokens = [lemmatizer.lemmatize(word.lower()) for word in tokens if not word.isdigit()]
+
+    # Define custom words to remove
+    custom_stop_words = set([
+        "year", "years", "work", "using", "new", "understand", "understanding", "experience",
+        "knowledge", "skills", "ability", "must", "have", "with", "the", "and", "or", "to", "a", "in", "of", "for", "on", "as", "is", "are",
+        "software", "development", "technology", "strong", "design", "business", "computer",
+        "project", "engineering", "technical", "system", "application", "degree", "related", "environment", "solution", "bachelor",
+        "preferred", "data", "problem", "excellent", "plus", "communication", "practice", "process", "working", "including", "tool", "written",
+        "skill", "team", "support", "science", "life", "basic", "best", "within", "security", "required", "approach",
+        "familiarity", "equivalent", "learn", "industry", "build", "role", "service", "field",
+        "academic", "cumulative", "gpa", "company", "government", "agency", "perform",
+        "tech", "technology", "companies", "clients", "skillstorm", "built", "paid", "government", "agencies", "enterprise",
+        "oriented", "user", "company", "collaboration", "requirement", "professional",
+        "management", "information", "cycle", "proficiency", "methodology", "verbal", "proficient", "one", "platform",
+        "office", "developing", "programming", "use", "level", "training", "partner", "effective",
+        "position", "equal", "greater", "open", "language",
+        "procedure", "delivery", "general", "issue", "and/or", "'s", "2+", "hands-on", "etc.", "on-site", "framework",
+        "coding", "time", "ii", "configuration", "product", "scripting",
+        "provide", "production", "implement", "code", "vision", "stack", "person", "complex", "well", "result", "need", "analytical",
+        "perform", "career", "contribute", "selected", "perform", "demonstrate", "develop", "desire",
+        "previous", "pattern", "performs", "demonstrated", "effectively","salary",
+        "benefit", "etc", "combination", "similar", "developer", "end", "expertise",
+        "like", "good", "core", "spring", "slack", "e.g.", "highly", "learning", "performance", "deployment", "boot", "building",
+        "client", "candidate", "job", "collaborate", "feature", "remote", "program", "quality",
+        "insurance", "get", "engineer", "master", "opportunity", "across", "interview",
+        "employee", "please", "take", "u", "review", "flexible" ,"closely", "medical", "email",
+        "manager", "maintain", "synergisticit", "electrical", "minimum", "help", "infrastructure",
+        "qualification", "leave", "participate", "supporting", "based", "startup", "comprehensive",
+        "world", "continuously", "make", "statistic", "share","growth", "ownership",
+        "implementation", "mobile", "looking", "existing", "web", "also", "creating", "per",
+        "jobseekers", "customer", "someone", "love", "important", "helped", "care",
+        "fully", "know", "market", "assist", "test", "status", "eligible", "ensure", "may", "area", "vehicle",
+        "company-paid", "history", "change", "part", "standard", "meet", "u.s.", "plan", "appropriate","success",
+        "assigned", "specification", "document", "health", "apply", "schedule",
+        "education", "create", "clearance", "without", "stakeholder", "pay", "functional", "relevant",
+        "task", "collaborative","hour","united","duty", "relocation", "sponsorship", "state",
+        "control", "manage", "dental" ,"organization", "scope", "day", "ensuring", "visa",
+        "excellence",
 
 
+
+
+
+    ])
+
+    # Remove stopwords and custom words
+    stop_words = set(stopwords.words('english'))
+    all_stop_words = stop_words.union(custom_stop_words)
+
+    # Filter tokens: keep words with at least one alphanumeric character and not in stopwords
+    filtered_tokens = [word for word in lemmatized_tokens if word not in all_stop_words and re.search(r'\w', word)]
+
+    # Create less_filtered_tokens by removing periods, commas, "'s", and single character words
+    less_filtered_tokens = [re.sub(r"\'s", '', re.sub(r'[.,]', '', word)) for word in tokens if len(word) > 1]
+
+    # Save all plots to a single PDF file
+    with PdfPages('processed_data/'+name_file+'_analysis.pdf') as pdf:
+        frequency_analysis(filtered_tokens, 20, pdf)
+        generate_word_cloud(' '.join(top_skills), 'Word Cloud of Top Skills', pdf)
+        generate_word_cloud(' '.join(filtered_tokens),  'Word Cloud of Skills in Requirements', pdf)
+        # skill_clustering(requirements)
+        ngram_analysis(less_filtered_tokens, 3, 20, pdf)  # Bigrams
+        ngram_analysis(less_filtered_tokens, 4, 20, pdf)  # Trigrams
+        ngram_analysis(less_filtered_tokens, 5, 20, pdf)  # Trigrams
+        ngram_analysis(less_filtered_tokens, 6, 20, pdf)  # 
+        ngram_analysis(less_filtered_tokens, 9, 20, pdf)  #
 
