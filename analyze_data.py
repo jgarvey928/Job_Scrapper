@@ -171,10 +171,7 @@ def analyze_data(name_file):
         "education", "create", "clearance", "without", "stakeholder", "pay", "functional", "relevant",
         "task", "collaborative","hour","united","duty", "relocation", "sponsorship", "state",
         "control", "manage", "dental" ,"organization", "scope", "day", "ensuring", "visa",
-        "excellence",
-
-
-
+        "excellence","specific", "solve", "lead", "keep", "detail", "identify", "continuous","power",
 
 
     ])
@@ -192,12 +189,12 @@ def analyze_data(name_file):
     # Save all plots to a single PDF file
     with PdfPages('processed_data/'+name_file+'_analysis.pdf') as pdf:
         frequency_analysis(filtered_tokens, 20, pdf)
+        ngram_analysis(less_filtered_tokens, 2, 20, pdf)  # Bigrams
+        ngram_analysis(less_filtered_tokens, 3, 20, pdf)  # Trigrams
+        ngram_analysis(less_filtered_tokens, 4, 20, pdf)  # 
+        ngram_analysis(less_filtered_tokens, 6, 20, pdf)  # 
+        ngram_analysis(less_filtered_tokens, 8, 20, pdf)  #
         generate_word_cloud(' '.join(top_skills), 'Word Cloud of Top Skills', pdf)
         generate_word_cloud(' '.join(filtered_tokens),  'Word Cloud of Skills in Requirements', pdf)
         # skill_clustering(requirements)
-        ngram_analysis(less_filtered_tokens, 3, 20, pdf)  # Bigrams
-        ngram_analysis(less_filtered_tokens, 4, 20, pdf)  # Trigrams
-        ngram_analysis(less_filtered_tokens, 5, 20, pdf)  # Trigrams
-        ngram_analysis(less_filtered_tokens, 6, 20, pdf)  # 
-        ngram_analysis(less_filtered_tokens, 9, 20, pdf)  #
 

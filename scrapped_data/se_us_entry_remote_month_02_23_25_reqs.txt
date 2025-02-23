@@ -1,0 +1,1571 @@
+Software Engineer I, Recent Graduate
+Acorns
+Learn from Engineering talent how we do craftsmanship at Acorns
+Own and develop solutions to product and coding issues
+Contribute to the broader Engineering team by participating in peer reviews
+Deploy your code in production to millions of Acorns’ users
+Take full ownership of at least one feature, from requirements to implementation
+Identify areas for improvement and drive your vision for Acorns’ technology forward
+Contribute to and evangelize Acorns’ engineering culture
+Lead projects that involve cross-functional teams to build major new features
+Become an expert on the services or features you helped build
+Collaborate with Engineering team to build innovative solutions while bringing new ideas, technologies, and methodologies to the table
+Write high-quality code with one or more programming languages
+Produce excellent design and development documentation
+Currently pursuing a Bachelor’s degree in computer science, software engineering, machine learning, mathematics, statistics, or a related field
+Required: Senior standing (Graduating 2025)
+Excellent command of one or more programming languages; Java, Scala, Ruby, Swift, Kotlin, Typescript, or Javascript
+Exceptional communication skills (verbal, written, and presentation)
+Hunger to learn new technologies
+Passion, drive, and ability to thrive in a startup environment
+Ownership of the software you produce
+Passion for self-improvement and learning
+Understanding of design patterns, basic algorithms, and data structures
+Thirst for delivering game-changing products
+Exceptional drive and precision in delivery
+A belief that your work is tied to your life's mission
+Optimistic about the potential of societal change
+Competitive salary and stock options
+A comprehensive benefits package for you and your family
+Flexible work location, hours, and paid time off
+401(k) discretionary match
+Monthly Acorns account contribution & GoHenry account for your family
+Mindfulness and Financial Wellness resources, Headspace and Addition Wealth
+Acorns Career Development Program (Ongoing training sessions, development plans, development check-ins, Cornerstone’s online training platform)
+Roots Leadership Program for Emerging Leaders
+Community week onsite gatherings and various virtual events
+Talented and motivated team members who care deeply about one another, our mission, and our customers.
+The rare opportunity to create a new world. We inspire one another every day to do meaningful work that solves big societal challenges.
+Managers are constantly raising the bar
+Managers ensure all team members have a voice and a path
+No surprises - Managers give and receive feedback early and often
+Managers continuously assess performance action on concerns quickly
+Managers foster a resilient, results-oriented mindset
+
+__________________________________________________
+
+Full Stack Software Engineer
+Under Armour
+
+1**************************************************
+
+Qualifications
+Bachelor's degree with typically 2 years of relevant experience, OR Master's degree without experience, OR Typically 6 years of relevant work experience without degree.
+Willingness to learn and work with back-end technologies like Node.js and REST/GraphQL APIs.
+Ability to work in an agile development environment and collaborate effectively with cross-functional teams.
+Develop high-quality software with a focus on front-end development using modern frameworks and tools.
+Collaborate with team members to design, build, and maintain web applications and components.
+Participate in the software development lifecycle, including requirements gathering, development, testing, and deployment.
+Troubleshoot and debug issues to maintain high performance and reliability.
+Learn and contribute to back-end systems and APIs as needed.
+Work closely with senior engineers and cross-functional partners to deliver scalable and innovative solutions.
+React, TypeScript, JavaScript, CSS/SCSS, and HTML.
+Experience with Next.js is a plus.
+Tagging & Analytics: Adobe Analytics, Tealium, Google Tag Manager.
+Content Management Systems: CoreMedia, Contentful.
+E-Commerce Systems: Salesforce Commerce Cloud, Shopify, etc.
+A/B Testing Tools: Adobe Target, AB Tasty, Evergage.
+Location: Fully Remote
+Return to Work Designation: Fully Remote
+Travel: minimal
+Licenses/Certifications: N/A
+No relocation provided
+Paid "UA Give Back" Volunteer Days: Work alongside your team to support initiatives in your local community
+Under Armour Merchandise Discounts
+Competitive 401(k) plan matching
+Maternity and Parental Leave for eligible and FMLA-eligible teammates
+Health & fitness benefits, discounts and resources- We offer teammates across the country programs to promote physical activity and overall well-being
+
+__________________________________________________
+
+Software Engineer
+Cohere
+Deploy AGI into enterprise-grade software
+Ship robust, minimal dependency code that runs in low-resource environments
+Collaborate with researchers to productionize state of the art models and techniques
+You have strong coding abilities, and are comfortable working across the stack
+You have built and deployed extremely performant client-side or server-side RAG/agentic applications to millions of users
+You’ve worked in both large enterprise and startups
+You excel in fast-paced environments, and can execute while priorities and objectives are a moving target
+
+__________________________________________________
+
+Frontend Software Engineer (Remote)
+HackerRank
+
+1**************************************************
+
+Change the world to value skills over pedigree
+. This position is full-time and Remote within the United States.
+As a Frontend Engineer, you will be pivotal in HackerRank’s mission to “Accelerate the World’s Innovation.” You are excited to impact the lives of millions of developers as you build the platform for them to showcase their skills and get hired. We’re responsible for creating the world’s leading technical interview platform. We believe in “Extreme ownership,” and you’ll have immense ownership of products and engineering.
+Your work will directly impact the lives of millions of developers as you build the platform for them to showcase their skills and get hired. You will be responsible for building systems that back the screen, interviews, and other product lines and building the best developer experience for each of our products. You’d be working on helping us scale our products to handle over 100K concurrent users to support significant country-wide remote hiring events. As part of this, you must also build a platform to provide world-class developer experience
+on the cloud at scale. Along with all of this, you will also be responsible for mentoring interns and delivering essential product and tech initiatives.
+Partnering with product designers and product managers to build and improve workflows and user experience for various personas like Interviewer, Candidate, Recruiter, and Hiring Manager
+Building uniform software front-end components that are pluggable and can be used across the organizations for various offerings.
+Understanding key web performance metrics for the product and striving to improve it on a regular basis.
+Actively participate in setting up good standards and conventions for front-end engineering and also review code for quality. We believe a good code is like good karma; it goes a long way.
+Collaborating with the engineers across the team for organization-wide initiatives, with the mission to improve software quality and user experience on a regular basis
+Mentoring budding Engineers and Interns
+Strong, self-motivated individuals looking to learn and contribute to key product and tech initiatives.
+Overall 2+ years of expertise in JavaScript-based UI Frameworks, with a strong preference for ReactJS
+We also expect you to be good with fundamental Javascript, someone who is willing to admit I don’t know Javascript - https://github.com/getify/You-Dont-Know-JS
+Good hands-on practical knowledge of HTML and CSS
+Experience with frontend toolings like Webpack, babel, etc
+Hands-on experience in frontend debugging and testing
+Keen attention to quality, someone who has set or used good coding standards for front-end development
+Good knowledge of various browser environments, compatibility, and any experience in building a multiscreen app is a bonus
+Eye for detail and metrics-driven, especially around Web Performance and Optimization
+Fullstack experience is a plus (Ruby)
+Understanding of frontend security
+Exposure to other frontend frameworks besides ReactJS
+Knowledge of backend APIs and technologies
+Exposure to typescript is a plus
+Experience in a fast-paced environment
+One-time home office set up stipend
+Monthly Remote Work Enablement Stipend
+Professional Development Reimbursement
+Wellbeing Benefits (Headspace, etc)
+Flexible paid time off and paid leave for new parents
+Insurance for all employees (term life, personal accident, medical) along with medical insurance for their dependents
+Employee stock options, flexible work hours, and time off
+Our Recruiters use @hackerrank.com email addresses.
+We never ask for payment or credit check information to apply, interview, or work here.
+
+__________________________________________________
+
+Remote Software Developer (Junior)
+SynergisticIT
+
+1**************************************************
+
+Since 2010 SynergisticIT has helped Jobseekers get employed in the tech Job market by providing candidates the requisite skills, experience and technical competence to outperform at interviews and at clients.
+
+2**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+3**************************************************
+
+Preferred SKILLS For Java /Full Stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+4**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+5**************************************************
+
+Preferred SKILLS
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+Candidates lacking technical skills can research our other programs which can assist in landing a Job
+
+6**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Junior Software Developer
+Central Garden & Pet
+
+1**************************************************
+
+Minimum Experience & Education
+BS/BA in computer science or equivalent experience
+2+ years of professional software development experience
+
+2**************************************************
+
+Qualifications
+Experience in contributing to the designing and building of platform services, APIs, and processes
+Experience with .NET Core with C# using LINQ, Entity Framework and SQL Server
+Experience with JavaScript Frameworks like Angular or React
+Experience with CSS technologies like SASS or LESS with Bootstrap
+Experience with Dev Ops teams that own the full engineering lifecycle
+Experience working with development teams to realize solutions on top of existing platform
+Travel a few times a year to meet with the larger team.
+Extend custom enterprise web applications, API, and mobile apps and support those features through development, QA, rollout, and post-production.
+Build out new front-end UIs and their supporting code to bring the data and supporting functionality to the backend.
+Analyze the performance of applications, investigate and troubleshoot problems. Work with users, software vendors, service providers, or system owners to determine causes and correct deficiencies based on findings
+Support Dev Ops chains for websites and custom applications across Development, QA, and Production environments in both cloud and on-premises.
+Work with delivery teams, product teams, or management to refine business requirements and collaborate on technical designs and resolve technical issues. Participate and actively engage with other developers, architects, and domain experts.
+Experience working on enterprise applications and supporting SLA’s
+Experience with Azure including App or Containers, Security, Identity and Data services
+Experience analyzing applications and cloud environment performance
+Experience using web-mapping libraries (e.g. Google Maps, MapBox, OpenStreetMap, etc.) or other GIS tools
+This position is based in a quiet, professional, corporate office environment or fully remote. This position requires the frequent use of a computer; much work time is spent sitting.
+Comprehensive Medical, Dental, and Vision Insurance
+Free Life and Disability Insurance
+Health and Dependent Care Flexible Spending Accounts
+401k with 3% company match and annual employer discretionary contribution
+Paid vacation, holidays and sick time
+Employee Assistance Program
+Access to thousands of free online courses
+Discounts on cell phones, movie tickets, gym memberships, and more!
+Education Assistance (both college degrees and professional certifications)
+Referral Program with cash bonus
+Access to on-demand pay
+Paid parental leave
+
+__________________________________________________
+
+Full-Stack Software Engineer, Frontend
+Synonym
+
+1**************************************************
+
+Must-have
+Demonstrated experience developing full-stack web applications
+Strong ability in Typescript and React
+High level of ownership and responsibility
+Good communication and collaboration skills, with the ability to work effectively on a remote team.
+Building a flexible and intuitive UI/UX for use by chemical engineers
+Building out a React component library to improve code reuse and accelerate UI development
+Adding LLM-powered capabilities to generate suggestions for our chemical engineering team as they use the tool
+Adding new modeling capabilities to our techno-economic engine
+Building out a data pipeline for ingesting relevant data that informs our models
+Lead UI/UX development for Scaler
+Contribute across software stack and play an active role in engineering decisions
+Help shape our product vision and roadmap based on user feedback
+Work closely with the process engineering, platform, and business teams to align product development with internal/external needs
+Experience in the specific frameworks we use: React, Next.js, TailwindCSS (frontend); FastAPI, Postgres, Supabase (backend).
+Early-stage startup experience
+Familiarity with other science and engineering disciplines (e.g., biology, physics, chemistry)
+Good design intuition, and ability to help prototype new ideas in Figma
+Degree in Computer Science or a related field preferred.
+Comprehensive medical, dental and vision coverage
+Daily lunch allowance
+Beautiful office in SoHo (NYC), or coworking space (Boston, SF Bay Area)
+Competitive compensation packages, including equity
+Unlimited PTO
+401(k)
+Team offsites
+
+__________________________________________________
+
+Software Engineer- Jr.
+Telos Corporation
+
+1**************************************************
+
+In Performing This Role, You Will Be Required To
+Collaborate with cross-functional teams to modernize our existing infrastructure, leveraging cutting-edge technologies and industry best practices.Help design and implement scalable infrastructure solutions that can accommodate future growth and increased demand.Assist with the development and implementation of infrastructure and tooling to enhance our release and deployment cycles, streamlining processes and improving overall velocity.Contribute to building a comprehensive development repository and query tool to facilitate efficient code management and analysis.Explore and implement AI and diff logic solutions to automate and optimize various processes, increasing efficiency and accuracy.Help create and maintain tooling that supports increased velocity and quality in release and deployment cycles.Bachelor’s degree in computer science, Engineering or a related discipline and has at least 2 or more years of experience in a Software Engineer Role. Additional experience may be substituted for a degree.Experience with Go-Lang Programming language is preferred.Experience with other languages such as Java or Python are helpful.Strong understanding of modern infrastructure principles and best practices.Experience with cloud computing platforms (AWS, Azure, GCP) and infrastructure as code (IaC) tools.Proficiency in CI/CD pipelines and automation tools.Experience with building and managing development repositories and tools.Coding proficiency with languages such as Python, and Java are useful.Experience and familiarity with Artificial Intelligence tools and query logic is a plus.Experience with the codification for diff logic operations.Strong problem-solving and analytical skills.Excellent communication and collaboration skills.
+The successful candidate must meet eligibility requirements to access sensitive information, which requires US citizenship.
+Telos maintains a drug-free workplace and will conduct drug testing on all applicants who have accepted an offer of employment
+Telos Corporation participates in the E-Verify program. Therefore, any employment with Telos will also be contingent upon confirmation from the Social Security Administration (“SSA”) and/or the Department of Homeland Security (“DHS”) of your authorization to work in the United States. Telos offers excellent compensation packages including salary commensurate with experience and benefits to meet your needs for today and the future.
+Telos Corporation and its subsidiaries are committed to equal opportunity for all, without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, age, veteran status, disability, genetic information, or any other protected characteristic. Telos Corporation will make reasonable accommodations for known physical or mental limitations of otherwise qualified employees and applicants with disabilities unless the accommodation would impose an undue hardship on the operation of our business. If you are interested in applying for an employment opportunity and feel you need a reasonable accommodation pursuant to the ADA, please contact us at 1-800-283-1911. If you require relay service assistance, please click on the following link to review information on your state’s relay service: http://transition.fcc.gov/cgb/dro/
+Telos Corporation is an EEO/AA employer.
+Collaborate with cross-functional teams to modernize our existing infrastructure, leveraging cutting-edge technologies and industry best practices.
+Help design and implement scalable infrastructure solutions that can accommodate future growth and increased demand.
+Assist with the development and implementation of infrastructure and tooling to enhance our release and deployment cycles, streamlining processes and improving overall velocity.
+Contribute to building a comprehensive development repository and query tool to facilitate efficient code management and analysis.
+Explore and implement AI and diff logic solutions to automate and optimize various processes, increasing efficiency and accuracy.
+Help create and maintain tooling that supports increased velocity and quality in release and deployment cycles.
+Bachelor’s degree in computer science, Engineering or a related discipline and has at least 2 or more years of experience in a Software Engineer Role. Additional experience may be substituted for a degree.
+Experience with Go-Lang Programming language is preferred.
+Experience with other languages such as Java or Python are helpful.
+Strong understanding of modern infrastructure principles and best practices.
+Experience with cloud computing platforms (AWS, Azure, GCP) and infrastructure as code (IaC) tools.
+Proficiency in CI/CD pipelines and automation tools.
+Experience with building and managing development repositories and tools.
+Coding proficiency with languages such as Python, and Java are useful.
+Experience and familiarity with Artificial Intelligence tools and query logic is a plus.
+Experience with the codification for diff logic operations.
+Strong problem-solving and analytical skills.
+Excellent communication and collaboration skills.
+
+__________________________________________________
+
+Software Engineer, Front End / Full Stack
+Common Room
+Have 2+ years of experience
+You operate independently, but don’t hesitate to seek help and support from those around you to get your job done.
+Revel in your craft, are excited by and capable of owning large projects primarily in the front-end domain
+Collaborate effectively with other experienced engineers, designers and PMs
+Are capable of making high quality technical and non-technical tradeoffs
+Prefer well supported, stable technologies over trendy/fashionable tech, even in the fast-moving world of front-end frameworks
+You sweat the details on matching designed product specs, and think of performance, componentization, and testability as core requirements of building a great front-end experience for customers
+Bring your authentic self to work, and engage in candid + respectful feedback
+Build sustainably, and are capable of managing your time and priorities as best suits your needs
+Enjoy the journey as much as the destination, but never lose sight of the destination
+Demonstrate pride, ownership, and accountability for your work, and expect the same from those you work with
+Be Customer-centric - We work backwards from the needs of our customers. The crisp articulation of customer value guides our decisions.
+Strive for Simplicity - We choose simplicity over complexity whenever possible. We seek to identify and understand the essential quality of what we are building.
+Make it Happen - We are quick to take the first step, and prioritize decisiveness over fear of making a mistake. We don’t confuse motion for movement and we measure ourselves on impact over actions.
+We’re In this Together - We measure personal success by the success of our customers and teammates. Relationships matter, and the strongest ones are built on the foundations of trust, enablement, and transparency.
+Competitive base compensation with meaningful equity ownership
+Health insurance including medical, dental, and vision, HSA and FSA
+We pay 100% of your employee premium and 50% of your premium for any dependents
+Unlimited Paid Time Off
+Paid Company Holidays
+Work from home policy including a laptop and support for your home office needs
+Monthly Remote Stipend
+401(k) self contribution
+Paid Family Leave
+Opportunity to join a diverse, passionate, and fun team at a pivotal time in the company’s lifecycle
+
+__________________________________________________
+
+Software Engineer
+Compound
+
+1**************************************************
+
+Minimum Requirements:
+2+ years of experience delivering high quality software.
+Experience building APIs, backend systems, and app architecture.
+Deep technical expertise in one or more languages.
+Strong understanding of computer science fundamentals and software engineering best practices.
+Excellent problem-solving skills and ability to navigate ambiguous and evolving requirements.
+Strong communication and collaboration skills within an agile team.
+Ability to thrive in a fast-paced, dynamic environment with shifting priorities.
+A growth mindset with a passion for continuous learning and improvement.
+
+2**************************************************
+
+Preferred Qualifications:
+Join us at
+Strong grasp of modern, lean, web-application technologies
+Familiarity creating integrations with external data sources and/or world class data visualizations
+Experience in FinTech or working in a startup environment.
+Familiarity with tools like Node.js, React, Next.js, Postgres, and AWS services.
+Experience with CI/CD pipelines.
+Understanding of mobile security best practices.
+Building, optimizing, or integrating AI/ML solutions.
+Mobile development experience
+Design, develop, and maintain high-quality applications.
+Lead feature implementation and own the end-to-end delivery of new features and enhancements, from concept to deployment.
+Design elegant, scalable, and maintainable software solutions to solve complex business problems.
+Collaborate closely with designers, product managers, and engineers to bring ideas to life.
+Contribute to system architecture, ensuring performance, scalability, and security.
+Review code, mentor teammates, and share best practices to elevate team performance.
+Triage and resolve software defects, continuously improving application quality and user experience.
+Stay at the forefront of development trends and innovations, driving technical excellence while delivering for the business.
+Actively participate in agile software development, including planning, code reviews, demo and retrospectives.
+
+__________________________________________________
+
+Software Developer (Entry) - Remote
+SynergisticIT
+
+1**************************************************
+
+Preferred SKILLS For Java /Full Stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C++ or software programming
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+For data Science/Data Analyst/AI/Machine learning Positions
+
+2**************************************************
+
+Preferred SKILLS
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+Candidates lacking technical skills can research our other programs which can assist in landing a Job
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+No phone calls please. Shortlisted candidates would be reached out. No third party or agency candidates or c2c candidates
+
+__________________________________________________
+
+[Full Remote] Entry Level Software Developer
+Joinrs US
+
+1**************************************************
+
+Required Technical and Professional Expertise
+Basic knowledge in one or more of the following technology areas:
+Java, Ruby, Python, Javascript, HTML, CSS, Node.js, Angular.js
+Understanding of Operating system software (e.g., MacOS, Linux, Windows)
+Preferred Technical and Professional Expertise
+
+2**************************************************
+
+Minimum 1 year experience working with operating system software (e.g., MacOS, Linux, Windows)
+Minimum 1 year experience development in JavaScript, Node.js, or similar
+One or more internships or co-op experience
+Work in an agile, collaborative environment to understand requirements, design, code and test innovative applications, and support those applications.
+Assist with resolving network issues, configuring operating systems, and using remote desktop connections to provide immediate support.
+Troubleshoot issues, collect data, elicit detailed requirements, then design and implement innovative solutions across multiple industries and sectors as well as governments and agencies.
+Highly motivated and have a passion for creating and supporting great products.
+Thrive on collaboration, working side by side with people of all backgrounds and disciplines, and you have very strong verbal and written communication skills.
+Great at solving problems, troubleshooting, and implementing solutions to complex technical issues.
+Have a basic understanding of software development and programming languages.
+Have the ability to learn new skills quickly and use the skills efficiently.
+
+__________________________________________________
+
+Software Engineer - Full Stack
+Everykey
+Develop and maintain responsive, user-friendly web applications using modern JavaScript frameworks like Angular and React (Angular preferred).
+Style applications effectively using CSS and build efficient workflows using Webpack.
+Design, implement, and optimize cloud-based solutions, particularly with AWS services.
+Build and maintain backend systems using Node.js (Express) and TypeScript, with some projects involving Laravel and PHP.
+Work with various databases, including SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB).
+Implement caching strategies using services like Redis to optimize performance.
+Develop and maintain Chrome extensions using Manifest V3 (MV3). Experience with Plasmo is a plus.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Ensure the performance, quality, and responsiveness of applications.
+Debug and resolve technical issues in a timely manner.
+Write clean, maintainable, and well-documented code. ### Required Skills
+Education or experience in Computer Science or Computer Engineering
+Strong experience with Node.js and Express using TypeScript and React.
+Familiarity with Laravel and PHP is a plus.
+Hands-on experience with AWS services (e.g., S3, Lambda, EC2).
+Experience developing Chrome extensions using Manifest V3 (MV3).
+Familiarity with Plasmo (preferred but not required).
+Bonus - Experience with Stripe
+Bonus - Bluetooth Low Energy Experience ### Languages
+HTML
+CSS
+JavaScript
+SQL ### Tools
+Web Consoles
+NodeJS
+HTTP
+REST Client
+Git
+BASH ### Benefits Fully Remote Flexible Hours Equity Ownership Potential 13 Floating Holidays 5 days starting PTO Additional PTO Accrual: 1 hr PTO per 24 hrs worked (~11 days per year) Contract Details Competitive compensation based on experience and project scope. Duration: 6-9 months. Opportunity for Extension: Potential to transition to a full-time role based on performance and project needs.
+
+__________________________________________________
+
+Remote Junior Software Developer | WFH
+Get It - Professional Services
+
+1**************************************************
+
+Required Skills
+Proficiency in programming languages such as C#, SQL (Microsoft or PostgreSQL), and development tools like Visual Studio. Experience with Blazor or ReactJS is an added advantage.
+Strong analytical and problem-solving skills with the ability to work independently and collaboratively with team members and end users.
+A commitment to continuous learning and staying updated with emerging development tools and industry trends.
+
+2**************************************************
+
+Qualifications
+A Bachelor's degree in Computer Science, Information Technology, or a related discipline.
+A minimum of 2 years of experience in a software engineering role.
+Collaborate closely with your team to translate business requirements into effective software solutions while adhering to established architectural and technical standards.
+Engage in the development and maintenance of in-house applications, including tools for data extraction and transformation as well as web-based workflow management utilities.
+Participate actively in code reviews and knowledge-sharing sessions to cultivate a cooperative and high-standard development environment.
+Serve as a technical support resource for troubleshooting server-based third-party applications, ensuring seamless operation within the app development framework.
+Monitor system performance to confirm all applications are functioning optimally.
+Propose and implement process enhancements through your systems analysis capabilities to boost operational efficiency.
+Uphold the confidentiality of company information and sensitive data at all times.
+Competitive salary range of \(65,000 - \)75,000 per year, commensurate with experience.
+A comprehensive benefits package designed to support your career growth and overall well-being.
+
+__________________________________________________
+
+Software Engineer I
+TeleTracking
+
+1**************************************************
+
+Pittsburgh Candidate Highly Preferred
+Software Engineering I, Productivity Engineering
+Building and operating resilient services that are observable with key metrics and visualize them in Grafana dashboards
+Leveraging AWS services such as Lambda, EKS, S3, EC2, RDS
+Designing and writing HTTP and RESTful APIs
+Designing reusable deployment pipelines in Spinnaker using kustomize and pipeline templates
+Applying large-scale changes across 100s of source code repositories
+Helping other engineers to build software better, faster and safely
+Researching, evaluating, implementing and operating extensions to delivery and observability platforms
+Java, Python, Go, JavaScript, react, bash, AWS, Azure, Prometheus, Loki, Grafana, Kubernetes, Docker, Terraform, Ansible, Spinnaker, git
+Bachelor's degree in Computer Science or a related technical field involving software engineering, or equivalent practical experience
+0-2 years of experience with an object oriented or functional programming language
+Experience with observability
+Experience with full cycle development
+Building developer-facing tools
+Interest in developing services as well as the underlying infrastructure
+Experience programming in Java, Python, Go, C++
+Medical/dental/vision plans 100% paid for employees and family members without coverage, which start from day one!
+Life and AD&D
+Flexible Spending Accounts: Medical, Dependent Care, and Transportation
+401 (k) Retirement Savings
+Tuition Reimbursement
+Military Paid Leave (up to 6 months of base salary while on military leave)
+Paid Time Off
+Paid parental leave
+
+__________________________________________________
+
+Entry Level Software Developer (Remote)
+SynergisticIT
+
+1**************************************************
+
+Since 2010 SynergisticIT has helped Jobseekers get employed in the tech Job market by providing candidates the requisite skills, experience and technical competence to outperform at interviews and at clients.
+
+2**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+3**************************************************
+
+Preferred SKILLS For Java /Full Stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C++ or software programming
+
+4**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+5**************************************************
+
+Preferred SKILLS
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+Candidates lacking technical skills can research our other programs which can assist in landing a Job
+
+6**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Software Engineer | Frontend
+Ramp
+Build!
+Design performant, beautiful, and usable interfaces
+Collaborate on our technical vision. Lead discussions and implementation of multiple complex projects
+Foster a culture of upholding industry-leading UX
+Continuously improve our engineering processes, tools, and systems that allow us to scale the code base, productivity, and the team
+Recruit, interview and develop your own interview questions, while fostering the culture of excellence, velocity and humility
+Inspire and mentor less experienced engineers and interns
+Minimum of 2 years of frontend engineering experience preferred
+Proficiency in JavaScript and React
+Knack for getting the visuals right
+Track record of shipping high-quality products and developing projects at scale
+Ability to turn business and product ideas into engineering solutions
+Desire to work in a fast-paced environment, continuously grow, and master your craft
+Alignment with Ramp’s core values of enabling businesses to grow more by spending less
+100% medical, dental & vision insurance coverage for you
+Partially covered for your dependents
+One Medical annual membership
+401k (including employer match on contributions made while employed by Ramp)
+Flexible PTO
+Fertility HRA (up to $5,000 per year)
+WFH stipend to support your home office needs
+Wellness stipend
+Parental Leave
+Relocation support to NYC or SF
+Pet insurance
+
+__________________________________________________
+
+Frontend Engineer
+Passes
+
+1**************************************************
+
+Qualifications
+Experience React or React Native.
+Familiarity with Vercel/NextJS.
+Experience working with common build/dev tools like tailwind, yarn and webpack.
+Ability to work closely with design + product using collaborative design tools.
+Build and maintain various user interfaces for web and/or mobile.
+Work closely with design and product on iterations of the UI/UX.
+Test and debug interface issues.
+Optimize the performance of components.
+Improve the organization of reusable components.
+Competitive salary and equity package.
+Comprehensive health, dental, and vision insurance.
+401(k) plan.
+Unlimited PTO.
+Professional development opportunities and continuous learning support.
+Flexible work environment with opportunities for remote work.
+Passes is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+__________________________________________________
+
+Software Engineer
+Solo
+
+1**************************************************
+
+Here Are Some Preferred Qualifications We Are Interested In.
+Computer science degree from a top school.
+Previous founder of a company.
+Ship features that help hundreds of thousands of people (soon to be millions).
+Execute rapidly.
+Perform code reviews.
+Investigate and resolve bugs.
+Write clean code.
+Estimate tasks and manage your own workflow.
+Scope features technically and flesh out their UX design where needed.
+Collaborate with the engineering, product, operations, and growth teams to execute on our roadmap.
+Help us decide what to build next.
+Solve complex problems.
+Desires to move uncomfortably fast.
+Writes clean code.
+A track record of writing understandable, maintainable, tested, and secure code.
+Does good code reviews and receives them well.
+Dedication to fully root causing production issues.
+0 – 7 years work experience.
+Believes excellence is the only authority.
+Discovers reality through data analysis and experimentation.
+Continuously improves over time.
+
+__________________________________________________
+
+Software Engineer (Entry Level)
+SynergisticIT
+
+1**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+2**************************************************
+
+Preferred Skills
+
+3**************************************************
+
+Preferred SKILLS For Java /Full stack/Devops Positions
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+4**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+5**************************************************
+
+Preferred SKILLS
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+Candidates lacking technical skills or relevant experience can research our Job Placement Programs which can assist in landing a Job
+
+6**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+Customized inputs to achieve the desired output : designed with industry needs in mind, ensuring you're equipped with the most sought-after skills.
+Exclusive Opportunities: Our extensive network allows you to connect with leading tech firms.
+Outstanding Outcomes: Many of our candidates land multiple job offers, often with starting salaries of $100k or more!
+
+__________________________________________________
+
+Software Engineer (Junior)
+SynergisticIT
+
+1**************************************************
+
+SYNERGISTICIT is aware that the Job Market is Challenging due to almost 600,000 Tech Layoffs within the past 2 years due to which The Job market is flooded with thousands of laid off Techies who are competing with existing Jobseekers. For entry level Job seekers to get client interviews and jobs they need to differentiate themselves by ensuring they have exceptional skills and technologies to be noticed by clients.
+
+2**************************************************
+
+Since 2010 we have helped Jobseekers differentiate themselves by providing the clients with candidates who have the requisite skills and experience to outperform at interviews and clients. Here at SynergisticIT We just don't focus on getting you a Job we make careers.
+All Positions are open for all visas and US citizens
+We are matchmakers we provide clients with candidates who can perform from day 1 of starting work. In this economy no client wants or has the resources to take an entry level person and spend resources on upgrading their skills and on top of that pay the jobseeker. That's the specific reason there are so many techies both experience and freshers who are unemployed.
+Clients have now the option to hire remote workers from anywhere so for a Jobseeker its important to introspect and see how they can become better and have the skills and technologies to meet client requirements.
+We at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like
+
+3**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+If you have relevant skills and industry experience, please apply
+For preparing for interviews please visit
+
+4**************************************************
+
+REQUIRED SKILLS For Java /Software Programmers
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Project work on the skills
+Knowledge of Core Java , javascript , C++ or software programming
+Spring boot, Microservices, Docker, Jenkins and REST API's experience
+Excellent written and verbal communication skills
+
+5**************************************************
+
+Required Skills
+Project work on the technologies needed
+Knowledge of Statistics, SAS, Python, Computer Vision, data visualization tools
+
+6**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Time series analysis
+Please understand skills and relevant experience on real world projects are required by clients for selection even if its Junior or entry level position the additional skills and Project work with hands on experience building projects at client site are the only way a candidate can be picked by clients.
+No third party candidates or c2c candidates
+please only apply to the posting
+If you get emails from our skill enhancement team please ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team.
+
+__________________________________________________
+
+Junior/Entry Software Developer(REMOTE)
+SynergisticIT
+
+1**************************************************
+
+Since 2010 SynergisticIT has helped Jobseekers get employed in the tech Job market by providing candidates the requisite skills, experience and technical competence to outperform at interviews and at clients.
+
+2**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+3**************************************************
+
+Preferred SKILLS For Java /Full Stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+4**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+5**************************************************
+
+Preferred SKILLS
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+Candidates lacking technical skills can research our other programs which can assist in landing a Job
+
+6**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Junior Full-Stack Developer
+Global Technical Talent, an Inc. 5000 Company
+
+1**************************************************
+
+Big Data and AI experience
+while working on a
+
+2**************************************************
+
+Required Skills & Technologies
+Languages:Java, Dart
+ImplementFlutter-basedUI designs to create an engaging and easy-to-use platform.
+Ensure a responsive and scalable UI across different devices.
+Collaborate with designers to refine user experiences based on feedback.
+Add and modifyRESTful APIsfor data integration.
+Implement basicCRUD operationsinPostgreSQL.
+Work withSpring Bootfor backend enhancements.
+Work closely with thedesign teamto integrate frontend components with backend services.
+Partner with anexisting developerto ensure code consistency and smooth project execution.
+Participate incode reviewsandteam discussionsto enhance product quality.
+Frontend Framework:Flutter
+Backend Framework:Spring Boot
+Database:PostgreSQL
+Tools & Platforms:Experience with cloud platforms (AWS, GCP, or Azure) is a plus but not required.
+Agile Development:Experience working infast-paced startup environmentsorSaaS product developmentis highly desirable.
+Impact:Build a product that helps employees take control of their financial future.
+Innovation:Work oncutting-edge fintech technology, leveragingAI, Big Data, and Open Banking.
+Growth Opportunity:Gain hands-on experience withmodern cloud architectureandscalable SaaS development.
+Collaborative Environment:Work closely withdesigners, stakeholders, and developersin asupportive and agilesetting.
+Title: Junior Full-Stack DeveloperLocation: 100% remote - Oakville, ONPay Rate: CAD $35 - $45 / hrJob Description:Looking for aFull-Stack Developerto help build outcore platform functionality, ensuring a smooth integration offrontend designswithbackend data processing.
+This role is primarilyfrontend-focused (80%), working with our UX/UI designer to bring financial data to life through asimple, intuitive, and scalable interface. The remaining20%will involve backend tasks, including integratingREST APIsand implementing basicdatabase CRUD operations.
+You will be working alongside an existing developer to complete a project that was initiated by anoffshore development team, collaborating closely withstakeholders and designers.
+This is a start up client that is an early-stage fintech company developing an AI-drivenfinancial wellness platformto help employees manage their benefits and finances using real-time data fromopen banking and HRIS systems. They are currently at theMini MVP phase, utilizing mock data for user testing while ensuring a strong focus ondata privacy and security.
+This is an opportunity to join agreenfield projectdealing with emergingfintech capabilities, where you'll gainBig Data and AI experiencewhile working on amodern cloud architecture.
+Key Responsibilities
+Frontend Development (80%)
+Backend Development (20%)
+Collaboration & Agile Development
+Languages:
+Java, Dart
+Frontend Framework:
+Flutter
+Backend Framework:
+Spring Boot
+Database:
+PostgreSQL
+Tools & Platforms:
+Experience with cloud platforms (AWS, GCP, or Azure) is a plus but not required.
+Agile Development:
+Experience working infast-paced startup environmentsorSaaS product developmentis highly desirable.
+About this opportunity:
+Impact:
+Build a product that helps employees take control of their financial future.
+Innovation:
+Work oncutting-edge fintech technology, leveragingAI, Big Data, and Open Banking.
+Growth Opportunity:
+Gain hands-on experience withmodern cloud architectureandscalable SaaS development.
+Collaborative Environment:
+Work closely withdesigners, stakeholders, and developersin asupportive and agilesetting.
+25-17692   #gttca
+
+__________________________________________________
+
+Full Stack, Front End Engineer
+swivl
+Work with design and product to build beautiful experiences on the web.
+QA features for both functionality and near pixel perfect design. We’re looking for someone who really loves to put the polish on things.
+Take existing front end code and work with other engineers on the team to add some UI love.
+Candidates for the position must have experience working with TypeScript, integrating with third party APIs, and creating new APIs.
+Required knowledge: Node.js Postgres DB Typescript
+Knowledge of preferred: REST API design SOAP protocol TypeORM TSOA
+We’re a fully remote company that works across all four U.S. time zones. We’re looking for someone who can work with us during this window.
+We also believe getting together in person a few times per year is good for the soul. We hope you’re willing to travel so we can get to know each other better.
+You like autonomy and can own a project from start to finish
+You live and breathe CSS
+You care about the difference between a 0.2s and 0.3s CSS :hover transition
+Send us a portfolio of front end work that you’re proud of and shows us what you’re capable of.
+Have a look at our website and check out our mascot, Hoover the owl. What are his colors?
+
+__________________________________________________
+
+Software Engineer
+540
+
+1**************************************************
+
+Citizenship & Clearance Requirement
+: per client requirements, must be a US Citizen with the ability to obtain a DHS Public Trust clearance
+
+2**************************************************
+
+Education Requirement:
+Bachelor's Degree in Computer Science or related (preferred)
+
+3**************************************************
+
+REQUIRED SKILLS & EXPERIENCE
+2+ years of professional experience in software development
+Strong foundation of programming concepts, object-oriented design and data structures
+Experience programming with Java / Spring
+Experience programming with JavaScript
+RESTful API / data-driven web application experience
+Familiarity with cloud platforms or deployment processes (e.g., AWS, Azure, or Docker)
+Basic knowledge of relational databases and SQL
+Excellent problem-solving skills and attention to detail
+Demonstrated ability to learn and adapt to new technologies and frameworks quickly
+Strong communication and collaboration skills for working in a team environment
+
+4**************************************************
+
+NICE TO HAVE SKILLS & EXPERIENCE
+Understanding of front-end development principles and experience working with frameworks like React or Angular
+Experience with version control systems like Git
+Knowledge of Agile or Scrum development methodologies
+Experience working with the government, specifically with the Department of Homeland Security (DHS)
+100% covered health, dental and vision premium for employees, optional dependent coverage
+Flexible Spending Account (FSA)
+401k with employer match
+Company Sponsored Life Insurance, Short and Long Term Disability coverage
+Flexible PTO + all Federal holidays off
+Home Office allowance
+Reimbursement for trainings / certifications
+Paid AWS Developer account
+Referral Bonus - good people know good people
+Annual Social Events (540 week, hackathon, holiday party, charity golf tournament, etc.)
+Access to 540's Washington Capitals tickets
+
+__________________________________________________
+
+Associate Software Engineer
+Deltek
+
+1**************************************************
+
+Qualifications
+Experience with C++.
+Knowledge of object-oriented design principles, data structures, algorithms, and software design patterns.
+Excellent problem-solving skills and the ability to analyze and debug complex issues.
+Strong communication and interpersonal skills, with the ability to collaborate effectively with cross-functional teams.
+Knowledge of SQL. Specifically Oracle and SQL Server,
+Knowledge of Windows application development.
+Knowledge of software development methodologies such as Agile or Scrum.
+US Citizenship is Required for this role.
+
+2**************************************************
+
+Travel Requirements
+No
+
+3**************************************************
+
+Compliance Requirements
+Certain roles may have additional privacy, security and compliance requirements to the extent they support Costpoint GCCM or similar product offerings.
+Join in the implementation of complex software systems using C++ and C# programming languages with C++ being the primary language.
+Learn and improve best practices, coding standards, and software design principles.
+Collaborate with cross-functional teams to define project requirements, architecture, and technical specifications.
+Participate in code reviews to ensure code quality, maintainability, and adherence to established standards.
+Identify and address technical challenges and performance bottlenecks in software applications.
+Work closely with QA engineers to develop test plans, automated tests, and ensure the reliability of the software.
+Stay updated on emerging technologies and industry trends to drive innovation and continuous improvement.
+
+__________________________________________________
+
+Software Developer (Full Stack): 25-03892
+Akraya, Inc.
+
+1**************************************************
+
+Must-Have Skills:
+Proficiency in AWS cloud services and architecture.
+Strong experience in building RESTful microservices using Node.js.
+Experience in developing UI with React and NodeJS
+Develop and maintain the full stack of O2P's platform including web applications and APIs.
+Engage in DevOps functions focusing on scalable, secure, and cost-effective solutions in the AWS cloud.
+Proactively adopt new technologies to enhance the O2P platform.
+Implement robust Quality and DevOps practices to create sustainable and adaptable solutions.
+Work closely with business stakeholders to translate business needs into functional and non-functional requirements.
+
+__________________________________________________
+
+Software Engineer, Back End
+Common Room
+Have 2+ years of experience
+You operate independently, but don’t hesitate to seek help and support from those around you to get your job done.
+Revel in your craft, are excited by and capable of owning large projects primarily on the backend domain
+Collaborate effectively with other experienced engineers, including application/front-end engineers
+You have good judgement on tradeoffs and tools needed to solve the problem, and don’t over index on trendy/fashionable tech. You generally prefer supported, stable technologies
+Use customer problems as input into designing systems, and find joy in creating simple, elegant solutions
+Consider observability, SLA and scalability implications, but are able to avoid premature optimization
+Feel at home with AWS, Postgres, and Node.js
+Bring your authentic self to work, and engage in candid + respectful feedback
+Build sustainably, and are capable of managing your time and priorities as best suits your needs
+Enjoy the journey as much as the destination, but never lose sight of the destination
+Demonstrate pride, ownership, and accountability for your work, and expect the same from those you work with
+Be Customer-centric - We work backwards from the needs of our customers. The crisp articulation of customer value guides our decisions.
+Strive for Simplicity - We choose simplicity over complexity whenever possible. We seek to identify and understand the essential quality of what we are building.
+Make it Happen - We are quick to take the first step, and prioritize decisiveness over fear of making a mistake. We don’t confuse motion for movement and we measure ourselves on impact over actions.
+We’re In this Together - We measure personal success by the success of our customers and teammates. Relationships matter, and the strongest ones are built on the foundations of trust, enablement, and transparency.
+Competitive base compensation with meaningful equity ownership
+Health insurance including medical, dental, and vision, HSA and FSA
+We pay 100% of your employee premium and 50% of your premium for any dependents
+Unlimited Paid Time Off
+Paid Company Holidays
+Work from home policy including a laptop and support for your home office needs
+Monthly Remote Stipend
+401(k) self contribution
+Paid Family Leave
+Opportunity to join a diverse, passionate, and fun team at a pivotal time in the company’s lifecycle
+
+__________________________________________________
+
+Software Engineer I
+Everfox
+
+1**************************************************
+
+Required Skills
+Ability to obtain government security clearance
+Bachelor's degree or equivalent experience
+Familiarity with software development in Linux environments using a variety of programming and scripting languages including Java, Python, Go, C/C++, and/or bash
+Familiarity with TCP/IP networking & related protocols (such as HTTP, SSH, IPSEC, TLS/SSL, etc)
+Basic understanding of of private and public keys and or certificates
+Experience with version control technologies such as Git
+
+2**************************************************
+
+Helpful Skills
+Agile or Scrum development experienceRed Hat Enterprise, Fedora or Ubuntu Linux operating systemsExperience with deploying cloud technologies such as MS Azure or AWSDevelopment experience in a distributed, parallel or clustered processing environmentExperience with virtual desktop redisplay technologies such as RDP, Citrix Receiver or VMware Horizon ViewExperience with thin-client usage, management & deployment scenariosExperience developing cloud-based technologies on Microsoft Azure or Amazon AWS
+A reasonable estimate of the base salary range for this role is:
+$77,792.00-129,996.88 USD
+The actual salary offered may vary within the range based on a candidates' unique experience, locale, and business needs. In addition to a base salary and bonus plans, Everfox offers a generous benefits package including flexible PTO, a 401k match, and contribution to healthcare coverages. Our talent acquisition team will provide specific information regarding bonus eligibility and benefits offerings.
+________________________________________________________________
+Agile or Scrum development experience
+Red Hat Enterprise, Fedora or Ubuntu Linux operating systems
+Experience with deploying cloud technologies such as MS Azure or AWS
+Development experience in a distributed, parallel or clustered processing environment
+Experience with virtual desktop redisplay technologies such as RDP, Citrix Receiver or VMware Horizon View
+Experience with thin-client usage, management & deployment scenarios
+Experience developing cloud-based technologies on Microsoft Azure or Amazon AWS
+
+__________________________________________________
+
+Frontend Developer
+Omega
+
+1**************************************************
+
+Requirements:
+Knowledge ofJavaScript, React, TypeScript, and Node
+
+2**************************************************
+
+helping you grow your technical skills
+Equity opportunities
+Bonus points for experience withAWS, Docker, Python, or Java
+Strong communication skills
+Must be a U.S. Citizen or Green Card holder
+Degree inComputer Science or a related field
+401Kplan
+4 weeks of paid vacation
+A supportive team focused onhelping you grow your technical skills
+
+__________________________________________________
+
+Back End Engineer
+ReadMe
+
+1**************************************************
+
+At ReadMe, we’re committed to cultivating a diverse and inclusive workplace. We welcome people of all backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a pleasant and supportive place to work. We'd love to have you come join us here!
+You're fluent in TypeScript and have a deep understanding of cloud computing services, making you a go-to for building and scaling modern systems.
+When it comes to architecture, your skills are top-notch—you're a pro at designing systems that are robust, scalable, maintainable and future-proof.
+You are able to work cross-functionally with designers and product folks at just the right level—whether it’s big-picture brainstorming or in nitty-gritty details.
+You thrive on collaboration and know how to create space for everyone’s voice at the table (or Zoom call).
+Complex problems don’t scare you: you’re a natural at untangling them, finding efficient solutions, and guiding the team toward the finish line—even if it means making a compromise or two along the way.
+You believe in the magic of iteration—shipping small, learning fast, and improving constantly.
+You genuinely enjoy mentoring and helping your teammates level up—it’s not just about writing code, but building the people around you up too.
+You're a pro at striking the perfect balance between driving things forward on your own to deliver real value while also breaking down problems into bite-sized pieces that the whole team can tackle together.
+You're passionate about engineering and always hungry to learn more, with a knack for diving deep to understand the scope of a problem and crafting the right solutions.
+We built a Git-backed data storage service to scale with our growing customer base, serving thousands of projects seamlessly via Git storage. But it wasn’t just a cool engineering feat—it empowers our users to manage their docs directly from their existing Git repositories. People say documentation is where information goes to die, but we’re on a mission to make ReadMe the place where documentation truly comes to life!
+Some projects are about looking back so we can build a better future. To keep ReadMe moving forward, we took a hard look at our original API layer and realized it needed a redesign—not just for our sake, but to make our customers' lives easier too. So, we rolled up our sleeves, reworked our API models, separated our APIs from our data layer, and automated API documentation. It’s easy for companies to just keep stacking onto what already exists, but at ReadMe, we believe quality improvements matter just as much as new features.
+Unlimited PTO with a three-week minimum. 🏝
+Fully covered medical, dental, and vision insurance for you, and your dependents. 🩺
+A One Medical membership. 🧑‍⚕️
+A wellness stipend for therapy of up to $350 per month for up to 6 months. 😌
+A wellness stipend of up to $150 per month. 🏋️
+One-to-one donation matching of up to $1,000 per year. 💸
+Twelve weeks of paid parental leave after the birth or adoption of a child. 🐣
+Work from home office stipend of $500. 🖥️
+Three offsite retreats per year to get together with coworkers and plan for the quarter ahead. ✈️
+Take a look at our handbook for more information on our benefits! 📘
+If we think we might be a good fit for you, we’ll set up a 30 minute phone chat with one of our Engineering Managers. They'll tell you more about the role, and get a chance to learn more about your personal experience.
+Next, a 30-minute phone interview with Laura, our VP of Engineering, where we’ll dive a bit more into your background.
+We’ll then do a technical assessment with a couple of ReadMe’s engineers.
+Finally, we’ll invite you to an "onsite" interview conducted over Zoom! These take an average of 4.5 hours including an hour break. We are able to be flexible with the schedule and split it up over two days if that works best for you! We start with a 15-minute get-to-know-you with the people you’ll be interviewing with, and then have you talk with each person one-on-one later on.
+We’ll let you know how things went within a week! If it seems like a good fit all around, we’ll extend you an offer! If not, we will update you to let you know so you aren’t left hanging.
+
+__________________________________________________
+
+Software Developer (Entry/Remote)
+SynergisticIT
+
+1**************************************************
+
+SYNERGISTICIT is aware that the Job Market is Challenging because of Tech Layoffs due to which The Job market is flooded with hundreds and thousands of laid off Jobseekers who are competing with existing Jobseekers. For entry level Job seekers to get client interviews and jobs they need to differentiate themselves by ensuring they have exceptional skills and technologies to be noticed by clients.
+
+2**************************************************
+
+Since 2010 we have helped Jobseekers differentiate themselves by providing the clients with candidates who have the requisite skills and experience to outperform at interviews and clients. Here at SynergisticIT We just don't focus on getting you a Job we make careers. All Positions are open for all visas and US citizens
+
+3**************************************************
+
+We at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like apple, google, Paypal, western union, Client, visa, walmart labs etc to name a few. We have an excellent reputation with the clients. Currently, We are looking for entry-level software programmers, Java Full stack developers, Python/Java developers, Data analysts/ Data Scientists, Machine Learning engineers.
+Who Should Apply Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates looking to make their careers in IT Industry We welcome candidates with all visas and citizens to apply. We assist in filing for STEM extension and also for H1b and Green card filing to Candidates
+Candidates can benefit from skill enhancement if they fall into the below categories.
+Candidates who Lack Experience or are freshers with No actual on Job experience with projects with clients Have had a break in careers Lack Technical Competency or skills being demanded by clients Different visa candidates (Like OPT/H4EAD/L2EAD ) who want to get employed and settle down in the USA please check the below links to see success outcomes of our candidates https://www.synergisticit.com/candidate-outcomes/
+
+4**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+5**************************************************
+
+REQUIRED SKILLS For Java /Software Programmers
+For data Science/Machine learning
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Project work on the skills
+Knowledge of Core Java , javascript , C+
+or software programming
+Spring boot, Microservices, Docker, Jenkins and REST API's experience
+Excellent written and verbal communication skills
+
+6**************************************************
+
+Required Skills
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Time series analysis
+Project work on the technologies needed
+Knowledge of Statistics, SAS, Python, Computer Vision, data visualization tools
+
+7**************************************************
+
+Please understand skills and relevant experience on real world projects are required by clients for selection even if its Junior or entry level position the additional skills and Project work with hands on experience building projects at client site are the only way a candidate can be picked by clients. If not having the skills or hands on project work at client site then candidates can opt for skill enhancement to gain the required skills and project work. No third party candidates or c2c candidates
+please only apply to the posting
+No phone calls please. Shortlisted candidates would be reached out.
+
+__________________________________________________
+
+Software Engineer | Backend
+Ramp
+Collaborate on our technical vision. Lead discussions and implementation of multiple complex projects
+Continuously improve our engineering processes, tools, and systems that allow us to scale the code base, productivity, and the team
+Recruit, interview and develop your own interview questions, while fostering the culture of excellence, velocity and humility
+Inspire and mentor less experienced engineers and interns
+A minimum of 2 years of software engineering experience preferred
+Track record of shipping high-quality products and features at scale
+Ability to turn business and product ideas into engineering solutions
+Desire to work in a fast-paced environment, continuously grow, and master your craft
+Learn more about our problem space and environment at our new engineering blog!
+100% medical, dental & vision insurance coverage for you
+Partially covered for your dependents
+One Medical annual membership
+401k (including employer match on contributions made while employed by Ramp)
+Flexible PTO
+Fertility HRA (up to $5,000 per year)
+WFH stipend to support your home office needs
+Wellness stipend
+Parental Leave
+Relocation support to NYC or SF
+Pet insurance
+
+__________________________________________________
+
+Software Engineer, Backend
+StackAdapt
+Building highly scalable, distributed real-time micro-services primarily written in Go
+Working with large data sets and various databases including Aerospike, Elasticsearch, Redis, ScyllaDB, Redshift, TiDB, MariaDB
+Build software that utilize messaging queues such as Kafka, SQS, and Kinesis
+Write performance efficient and memory optimized code
+2+ years of experience as a Backend Software Engineer.
+Very strong problem solving skills in data structures, algorithms, and optimization
+Experience working with relational databases and/or key-value stores
+Experience building scalable micro-services and distributed systems
+Competitive salary
+RRSP/401K matching
+3 weeks vacation + 3 personal care days + 1 Culture & Belief day + birthdays off
+Access to a comprehensive mental health care platform
+Full benefits from day one of employment
+Work from home reimbursements
+Optional global WeWork membership for those who want a change from their home office
+Robust training and onboarding program
+Coverage and support of personal development initiatives (conferences, courses, etc)
+Access to StackAdapt programmatic courses and certifications to support continuous learning
+Mentorship opportunities with industry leaders
+An awesome parental leave policy
+A friendly, welcoming, and supportive culture
+Our social and team events!
+
+__________________________________________________
+
+Full Stack Engineer (1099)
+Third and Grove
+Communicate technology options and opinions to clients and internal staff diplomatically.
+Write consistently high-quality code and develop knowledge outside of your core competencies, for example Dev Ops, CI, ADA compliance and performance optimization
+Perform code reviews, use Git and pull-request workflows
+Collaborate with fellow developers and be a mentor to teammates.
+Collaborate with our QA, Creative, Delivery, Strategy and Shopify teams.
+You stay curious and are dedicated to your teammates and clients.
+You know back-end technologies like PHP and PHP Frameworks such as Laravel, Symfony.
+You can perform Front-end development with HTML, CSS (including frameworks like Tailwind), and JavaScript (ES6).
+You know Drupal.
+You don’t mind talking to people.
+You are a team player.
+You live and breathe best practices.
+100% employer paid health, vision and dental insurance
+Life and short-term disability insurance
+Paid parental leave
+Family First PTO Bank
+Up to 100% remote / telecommute
+Flex Fridays
+Paid vacation
+401k with up to 4% match
+Charitable matches and/or community service hours
+End of year merit-based bonuses
+Annual company retreat with absolutely no trust falls
+Company culture events such as trivia and team lunches
+Professional development budget
+
+__________________________________________________
+
+Full Stack Engineer
+RelationalAI
+
+1**************************************************
+
+You Must Have
+Experience building highly interactive web applications with modern frameworks (solidjs experience a plus, but not required)
+A strong foundation in frontend development (HTML, CSS, Typescript)
+Experience with data visualization libraries and complex graphical interfaces
+A track record of shipping high-quality tools or platforms
+Visualizations for exploring entities and relationships that are useful and even fun
+Interfaces that let people collaboratively build and edit shared models
+Version control and collaboration tools which safely enable teamwork
+AI agents that work with users to extend what they can do
+State management and API integration across a growing platform
+Experience with 3D or graph visualizations
+A background in data modeling or knowledge graphs
+Familiarity with AI and ML tooling and platforms
+Open source contributions
+Exposure to game design principles like procedural generation, emergent behavior, and organic learning
+We are all owners in the company and reward you with a competitive salary and equity.
+Work from anywhere in the world.
+Comprehensive benefits coverage, including global mental health support
+Open PTO – Take the time you need, when you need it.
+Company Holidays, Your Regional Holidays, and RAI Holidays—where we take one Monday off each month, followed by a week without recurring meetings, giving you the time and space to recharge.
+Paid parental leave – Supporting new parents as they grow their families.
+We invest in your learning & development
+Regular team offsites and global events – Building strong connections while working remotely through team offsites and global events that bring everyone together.
+A culture of transparency & knowledge-sharing – Open communication through team standups, fireside chats, and open meetings.
+
+__________________________________________________
+
+Full-Stack Engineer (Front-End Leaning)
+ElevenLabs
+Building and maintaining the front-ends for our platform and products, which are built on top of our cutting-edge voice models and used by millions of users.
+High degrees of ownership. You will be responsible for shipping end-to-end features across the front and back ends of our stack, as well as helping set the direction of the features and products you're working on.
+Collaborating closely with others on the Engineering, Growth and Sales teams to understand, and design solutions for, our customer and internal team’s most important problems and workflows.
+Improving our existing products to ensure that they’re intuitive, powerful and make innovative use of our research team’s latest break-throughs. This could involve making sweeping UX changes, adding significant functionality, or building integrations with other common consumer/enterprise solutions.
+Designing & developing clean, intuitive, and functional user interfaces for products that will be used by millions of users and the world’s largest enterprises.
+Working with internal teams and customers directly to synthesize feedback, understand user’s issues, and then design improvements and features to solve them.
+Are passionate about audio AI driven by a desire to make content universally accessible and breaking the frontiers of new tech.
+Are a highly motivated and driven individual with a strong work ethic. Our team is aware of this critical moment of audio AI evolution and is committed to going the extra mile to lead.
+Are analytical, efficient, and strive on solving complex challenges with a first principles mindset.
+Consistently strive for excellence, delivering high-quality work quickly and exceeding expectations.
+Take initiative and work autonomously from day one, prioritizing learning and contribution while leaving ego aside.
+Experience with Web Development using Typescript/React
+Familiarity with common software and system design patterns and infrastructure including APIs, cloud infrastructure tools, storage solutions, data structures etc.
+Interest in UI/UX design
+High-velocity innovation: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.
+A truly global team: Collaboration with teammates across 30+ countries, a global customer footprint and office hubs in New York, London and Warsaw. Annual company offsite for the whole team to get together (the last one in Croatia!)
+Remote first: We prioritize your talent, not your location, with structured asynchronous workflows for maximum impact and minimal meetings.
+Continuous growth: Collaborate with AI leaders, shape your path, and contribute where you excel most.
+
+__________________________________________________
+
+Junior Software Engineer (Remote)
+SynergisticIT
+
+1**************************************************
+
+SYNERGISTICIT is aware that the Job Market is Challenging because of Tech Layoffs due to which The Job market is flooded with hundreds and thousands of laid off Jobseekers who are competing with existing Jobseekers. For entry level Job seekers to get client interviews and jobs they need to differentiate themselves by ensuring they have exceptional skills and technologies to be noticed by clients.
+
+2**************************************************
+
+Since 2010 we have helped Jobseekers differentiate themselves by providing the clients with candidates who have the requisite skills and experience to outperform at interviews and clients. Here at SynergisticIT We just don't focus on getting you a Job we make careers. All Positions are open for all visas and US citizens
+
+3**************************************************
+
+We at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like apple, google, Paypal, western union, Client, visa, walmart labs etc to name a few. We have an excellent reputation with the clients. Currently, We are looking for entry-level software programmers, Java Full stack developers, Python/Java developers, Data analysts/ Data Scientists, Machine Learning engineers.
+Who Should Apply Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates looking to make their careers in IT Industry We welcome candidates with all visas and citizens to apply. We assist in filing for STEM extension and also for H1b and Green card filing to Candidates
+Candidates can benefit from skill enhancement if they fall into the below categories.
+Candidates who Lack Experience or are freshers with No actual on Job experience with projects with clients Have had a break in careers Lack Technical Competency or skills being demanded by clients Different visa candidates (Like OPT/H4EAD/L2EAD ) who want to get employed and settle down in the USA please check the below links to see success outcomes of our candidates https://www.synergisticit.com/candidate-outcomes/
+
+4**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+5**************************************************
+
+REQUIRED SKILLS For Java /Software Programmers
+For data Science/Machine learning
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Project work on the skills
+Knowledge of Core Java , javascript , C+
+or software programming
+Spring boot, Microservices, Docker, Jenkins and REST API's experience
+Excellent written and verbal communication skills
+
+6**************************************************
+
+Required Skills
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Time series analysis
+Project work on the technologies needed
+Knowledge of Statistics, SAS, Python, Computer Vision, data visualization tools
+
+7**************************************************
+
+Please understand skills and relevant experience on real world projects are required by clients for selection even if its Junior or entry level position the additional skills and Project work with hands on experience building projects at client site are the only way a candidate can be picked by clients. If not having the skills or hands on project work at client site then candidates can opt for skill enhancement to gain the required skills and project work. No third party candidates or c2c candidates
+please only apply to the posting
+No phone calls please. Shortlisted candidates would be reached out.
+
+__________________________________________________
+
+Software Developer - Junior
+SynergisticIT
+
+1**************************************************
+
+Since 2010 SynergisticIT has helped Jobseekers get employed in the tech Job market by providing candidates the requisite skills, experience and technical competence to outperform at interviews and at clients.
+
+2**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+3**************************************************
+
+Preferred Skills
+
+4**************************************************
+
+Preferred SKILLS For Java /Full stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+5**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+6**************************************************
+
+Preferred SKILLS
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+Candidates lacking technical skills can research our other programs which can assist in landing a Job
+
+7**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Software Engineer
+InvoiceCloud, Inc.
+Assist in maintaining our existing .Net and aps applications
+Aid in Converting legacy VB6 application to a C# application.
+Work through a backlog of tickets
+Collaborate with the rest of the dev team in 2 a week sprint cycle.
+Perform periodic on-call support for after-hours deployment/maintenance windows.
+Bachelor’s Degree preferred or equivalent combination of education and experience required
+2+ years’ experience using Microsoft technologies, including: VB.NET, C#, Visual Studio (Web, Console, and Library projects), .NET Framework, ADO.NET, T-SQL.
+
+__________________________________________________
+
+Java Developer - Entry (Remote)
+SynergisticIT
+
+1**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+2**************************************************
+
+Preferred SKILLS For Java /Full Stack/Devops Positions
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C++ or software programming
+
+3**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+4**************************************************
+
+Preferred SKILLS
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+Candidates lacking technical skills can research our Job Placement Programs which can assist in landing a Job
+
+5**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+Customized inputs to achieve the desired output : designed with industry needs in mind, ensuring you're equipped with the most sought-after skills.
+Exclusive Opportunities: Our extensive network allows you to connect with leading tech firms.
+Outstanding Outcomes: Many of our candidates land multiple job offers, often with starting salaries of $100k or more!
+
+__________________________________________________
+
+Software Engineer
+FreeWorld
+
+1**************************************************
+
+What You’ll Have (Minimum Qualifications)
+Technical
+Experience writing easy-to-read, well-tested, low-resource TypescriptExposure to, experience with, or deep acumen for evolutionary architecture (e.g. loose coupling, modularity, continuous deployment, and robust test automation)Track record of good judgement in adopting 3rd party libraries and servicesScars from a few egregious mistakes, inc having taken production down a time or two
+Non-Technical
+Great teammate, over great distances (and Zoom calls)Pride in craft – good enough is never good enough for you, ANDScrappy and entrepreneurial – you know how to think big & fail fastRadically non-judgemental
+Experience writing easy-to-read, well-tested, low-resource Typescript
+Exposure to, experience with, or deep acumen for evolutionary architecture (e.g. loose coupling, modularity, continuous deployment, and robust test automation)
+Track record of good judgement in adopting 3rd party libraries and services
+Scars from a few egregious mistakes, inc having taken production down a time or two
+Great teammate, over great distances (and Zoom calls)
+Pride in craft – good enough is never good enough for you, AND
+Scrappy and entrepreneurial – you know how to think big & fail fast
+Radically non-judgemental
+
+2**************************************************
+
+Bonus Points If… (Preferred Qualifications) ‍‍
+Impacted by the criminal justice system (directly or indirectly)
+Experience working in the fields of criminal justice or trucking
+Experience working in a tech-based startup or nonprofit
+Experience with Next.js, ReactNative, Prisma, and genAI
+Placing returning citizens into high-wage careers at scale.
+Developing a self-sustaining revenue model to accelerate our growth.
+Creating systemic change by leveraging our deep layers of graduate data in partnership with the Criminal Justice System to become the Gold Standard for re-entry.
+Design, develop, and maintain the world’s most effective and delightful re-entry app
+Use frequent, thoughtful feedback in PR reviews to hold the quality bar high, with grace
+Experiment with new tools, tech, and techniques to keep us lean and nimble
+Be an owner/operator of production code, inc sometimes leading blameless post mortems after troubleshooting and patching serious live bugs
+Recruit, evaluate, and train new talent as we continue to grow the team
+Travel at least four times a year to full-team and eng-only working retreats
+Read our FreeWorld Culture FAQ and our FreeWorld Core Values, and if you still think you are a fit…
+Submit an application and cover letter. If your qualifications are a match…
+We have a short introductory call. If we love each other, then…
+You flex your tech chops in a CoderByte tech assessment (no l33tcode, but yes programming), then...
+A "CV deep dive" one hour call with the CTO to discuss your previous experiences and career arc, then...
+You meet three additional team members in 45-minute (each) focused interviews, two technical and one behavioral.
+Last but not least, we talk to a few of the folks you worked with, and if all goes well, we agree on terms. ‍
+Remote work flexibility
+Team-centric culture of honesty, vulnerability, & trust!
+Awesome Health & Disability Insurance (medical, dental, vision, mental health)
+Financial Health: 401k & High-Yield Savings Account
+Employee Development (Quarterly Wellness Stipend, Paid Professional Development, and more)
+Incredible Work-Life Balance! (Unlimited PTO, 14+ paid holidays, & paid parental leave)
+Creating tremendous impact at scale
+
+__________________________________________________
+
+Junior Mern Stack Developer
+SynergisticIT
+
+1**************************************************
+
+SYNERGISTICIT is aware that the Job Market is Challenging because of Tech Layoffs due to which The Job market is flooded with hundreds and thousands of laid off Jobseekers who are competing with existing Jobseekers. For entry level Job seekers to get client interviews and jobs they need to differentiate themselves by ensuring they have exceptional skills and technologies to be noticed by clients.
+
+2**************************************************
+
+Since 2010 we have helped Jobseekers differentiate themselves by providing the clients with candidates who have the requisite skills and experience to outperform at interviews and clients. Here at SynergisticIT We just don't focus on getting you a Job we make careers. All Positions are open for all visas and US citizens
+
+3**************************************************
+
+We at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like apple, google, Paypal, western union, Client, visa, walmart labs etc to name a few. We have an excellent reputation with the clients. Currently, We are looking for entry-level software programmers, Java Full stack developers, Python/Java developers, Data analysts/ Data Scientists, Machine Learning engineers.
+Who Should Apply Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates looking to make their careers in IT Industry We welcome candidates with all visas and citizens to apply. We assist in filing for STEM extension and also for H1b and Green card filing to Candidates
+Candidates can benefit from skill enhancement if they fall into the below categories.
+Candidates who Lack Experience or are freshers with No actual on Job experience with projects with clients Have had a break in careers Lack Technical Competency or skills being demanded by clients Different visa candidates (Like OPT/H4EAD/L2EAD ) who want to get employed and settle down in the USA please check the below links to see success outcomes of our candidates https://www.synergisticit.com/candidate-outcomes/
+
+4**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+5**************************************************
+
+REQUIRED SKILLS For Java /Software Programmers
+For data Science/Machine learning
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Project work on the skills
+Knowledge of Core Java , javascript , C+
+or software programming
+Spring boot, Microservices, Docker, Jenkins and REST API's experience
+Excellent written and verbal communication skills
+
+6**************************************************
+
+Required Skills
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Time series analysis
+Project work on the technologies needed
+Knowledge of Statistics, SAS, Python, Computer Vision, data visualization tools
+
+7**************************************************
+
+Please understand skills and relevant experience on real world projects are required by clients for selection even if its Junior or entry level position the additional skills and Project work with hands on experience building projects at client site are the only way a candidate can be picked by clients. If not having the skills or hands on project work at client site then candidates can opt for skill enhancement to gain the required skills and project work. No third party candidates or c2c candidates
+please only apply to the posting
+No phone calls please. Shortlisted candidates would be reached out.
+
+__________________________________________________
+
+Junior Full Stack Engineer
+SynergisticIT
+
+1**************************************************
+
+SYNERGISTICIT wants every candidate to know that the Job Market is Challenging and to stand out, you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need
+
+2**************************************************
+
+Candidates Who Lack Experience
+Have had a break in careers
+Lack Technical Competency
+Different visa candidates who want to get employed and settle down in the USA
+
+3**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+If not a match candidates can opt for Skill enhancement.
+
+4**************************************************
+
+REQUIRED SKILLS For Java/Software Programmers
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices and REST API's experience
+Excellent written and verbal communication skills
+
+5**************************************************
+
+Required Skills
+Knowledge of Statistics, Python, data visualization tools
+
+6**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, Time series analysis
+Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients.
+
+__________________________________________________
+
+Software Engineer
+Embark Veterinary
+Bring to life new and exciting business developments that make Embark the premiere destination for pet parents
+Elevate the delight and actionability of the platform for our highly rated DNA test products
+Develop engaging new features and systems that transform the way pet parents understand and care for their pets
+Evolve Embark’s architecture to enable Embark to continue to scale
+React, MUI, HTML5, CSS3
+TypeScript, Python
+NodeJS, GraphQL, Express, PostgreSQL, Redis
+AWS (ECS, RDS, ElastiCache Lambda, etc.)
+We continually ship value to our customers and embrace CI and CD wherever possible. We deploy our stacks using CDK and GitHub Actions.
+We strive for a best-in-show customer experience. Observability is important to us. We leverage DataDog and Sentry and are active in detecting and resolving errors.
+We experiment with cutting edge tech to find new and innovative ways to enrich our products and services and the way we work. Recently we have been trying llama-index, AWS Bedrock, and AWS Q Business. We use critique jam sessions to collaboratively make new technology choices.
+Deliver clean, efficient, maintainable code, as well as thorough tests and documentation
+Perform code reviews for others and respond to code reviews on your code
+Collaborate with our Product and Design team and stakeholders to deliver high impact products and service
+Contribute to improve our technology and development practices via retrospectives and other means, with the goal of continuous improvement of quality and team efficiency
+Embrace a continuous learning mindset – hone and develop your craft while learning cutting edge technologies in areas such as AI
+2+ years of professional web development experience
+Strong experience in an area of web development (e.g. CSS, frontend frameworks, SQL databases, APIs, etc.)
+A foundational understanding of relational databases (PostgreSQL) using SQL
+A solid understanding of AWS or similar cloud technologies
+Experience utilizing CI/CD tools like GitHub Actions or similar
+Comfortable working with frontend frameworks like React, Angular, or Vue
+Willingness to participate in on-call rotation
+Excellent verbal and written communication skills
+Eagerness to learn new technologies and solve problems
+Experience with customer-centric product development
+Understanding of DevOps and Agile development philosophies
+A flexible vacation policy so you can take off the time you need when you need it
+Paid maternal and paternal leave (plus paw-ternity leave for new pets)
+Every other Friday off each summer
+Perks tailored for dog lovers including subsidized pet insurance
+Startup perks with big-company benefits (401k match, a generous bonus structure, commuter benefits, top-of-the-line healthcare, HSA/FSA)
+Competitive salaries and equity participation — every employee gets stock options
+New MacBook Pros or laptops
+Continuing education, including attending conferences and company-provided resources to help with individual growth and development
+
+__________________________________________________
+
+Junior Java/Full Stack Developer
+SynergisticIT
+
+1**************************************************
+
+Since 2010 SynergisticIT has helped Jobseekers get employed in the tech Job market by providing candidates the requisite skills, experience and technical competence to outperform at interviews and at clients.
+
+2**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+3**************************************************
+
+Preferred Skills
+
+4**************************************************
+
+Preferred SKILLS For Java /Full stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C++ or software programming
+
+5**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+6**************************************************
+
+Preferred SKILLS
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+Candidates lacking technical skills can research our other programs which can assist in landing a Job
+
+7**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+

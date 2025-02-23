@@ -34,14 +34,12 @@ def extract_csv(input_file):
         for row in reader:
             collected_text = []
 
-            # print(row['Job Title'])
-            # print(row['Company'])
-            # print(row['Date'])
-            # print(row['Address'])
+            collected_text.append(row['Job Title'])
+            collected_text.append(row['Company'])
+            # collected_text.append(row['Date'])
+            # collected_text.append(['Address'])
             # print(row['Link'])
 
-            # Collect all below here
-            
             description = row['Description']
             soup = BeautifulSoup(description, 'html.parser')
 
@@ -100,9 +98,6 @@ def extract_csv(input_file):
                 
             collected_text.append("\n__________________________________________________\n")
 
-            
-            # Collect above here
-
             # Remove duplicates from the collected text list
             seen = set()
             unique_collected_text = []
@@ -136,6 +131,6 @@ def extract_data(name_file):
 
     # Open the text file for writing
     with open('scrapped_data/'+name_file+'_reqs.txt', mode='w', encoding='utf-8') as file:
-        for req in all_requirements:
-            # print("+ "+req)  # Print to console
+        for req in requirements:
+            print("+ "+req)  # Print to console
             file.write(req + "\n")  # Write to text file

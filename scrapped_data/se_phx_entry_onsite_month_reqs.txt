@@ -1,3 +1,5 @@
+Software Engineer - Early Career
+ASM
 
 1**************************************************
 
@@ -44,6 +46,8 @@ Evaluating new software and hardware tools for possible department use
 
 __________________________________________________
 
+Python Engineer
+Carvana
 
 1**************************************************
 
@@ -85,6 +89,8 @@ A company culture of promotions from within, with a start-up atmosphere allowing
 
 __________________________________________________
 
+Entry Level Software Developer
+SkillStorm
 
 1**************************************************
 
@@ -126,6 +132,8 @@ Work closely with other departments, such as quality assurance, project manageme
 
 __________________________________________________
 
+Web Developer
+Talent Groups
 
 1**************************************************
 
@@ -145,6 +153,8 @@ Collaborate with cross functional teams in an Agile/Scrum environment to deliver
 
 __________________________________________________
 
+Software Engineer – Entry Level
+General Dynamics Mission Systems
 
 1**************************************************
 
@@ -172,6 +182,8 @@ While on-site, you will be a part of the SDA team in Scottsddale AZ
 
 __________________________________________________
 
+entry level Java spring boot Developer/Jr. Data Scientist (Remote)
+SynergisticIT
 
 1**************************************************
 
@@ -204,6 +216,8 @@ If you get emails from our Job Placement team and are not interested please emai
 
 __________________________________________________
 
+Software Engineer
+Consumer Cellular, Inc.
 
 1**************************************************
 
@@ -272,6 +286,8 @@ Accrue up to 40 hours in 1st year for hourly positions and up to 120 hours for s
 
 __________________________________________________
 
+Web Developer
+Intuitive Machines
 
 1**************************************************
 
@@ -302,6 +318,8 @@ Remains abreast of technology directions, initiatives, and trends within the sco
 
 __________________________________________________
 
+Engineer - JavaScript/TypeScript, Java - One Market
+American Express
 
 1**************************************************
 
@@ -359,7 +377,6 @@ With the right backing, people and businesses have the power to progress in incr
 At American Express, you’ll be recognized for your contributions, leadership, and impact—every colleague has the opportunity to share in the company’s success. Together, we’ll win as a team, striving to uphold our company values and powerful backing promise to provide the world’s best customer experience every day. And we’ll do it with the utmost integrity, and in an environment where everyone is seen, heard and feels like they belong.
 Join Team Amex and let's lead the way together.
 As part of our diverse tech team, you can architect, code and ship software that makes us an essential part of our customers’ digital lives.Here, you can work alongside talented engineers in an open, supportive, inclusive environment where your voice is valued, and you make your own decisions on what tech to use to solve challenging problems.American Express offers a range of opportunities to work with the latest technologies and encourages you to back the broader engineering community through open source.And because we understand the importance of keeping your skills fresh and relevant, we give you dedicated time to invest in your professional development.Find your place in technology on #TeamAmex.
-
 The U.S. Consumer Services and Enterprise Digital & Data Technology Team brings together foundational strategic technology capabilities in digital experience engineering (Mobile and Web), AI/ML, marketing technology, enterprise communications, travel and lifestyle, and automation, grounded in our data technology model that prioritizes data governance. It employs a ground-breaking focus with development responsibilities for customer-facing capabilities that deepen and expand digital engagement, as well as core technical capabilities that cut across business lines and customer segments.
 The One Market team develops the company's internal platform for enterprise-grade web crawling and technical SEO.  This tool empowers teams across the organization to gain insights into website performance while enforcing SEO best practices and change management for search optimization strategies.
 How will you make an impact in this role?
@@ -367,75 +384,8 @@ Contribute to design, development, testing, troubleshooting, debugging, modifyin
 
 __________________________________________________
 
-
-1**************************************************
-
-Requirements
-Bachelor's degree in Computer Science/Information Systems or comparable with 2+ years of experience.
-Knowledge of object-oriented and functional software design.
-Proficient in developing reusable common component libraries.
-Familiarity with RESTful services.
-Understanding of Software Development Methodologies.
-Understanding of security best practices.
-Understanding of accessibility best practices.
-Understanding of SEO and web analytics best practices.
-Strong problem solving and collaboration skills.
-Excellent verbal and written communication skills.
-Team Player.
-
-2**************************************************
-
-Technology Requirements
-Strong knowledge of web technologies - HTML, CSS, REST services
-Proficient in
-One or more modern front-end frameworks such as Angular or React
-JavaScript or TypeScript
-Git
-SQL
-Experience with CMS is preferred, Adobe Experience Manager specifically.
-Experience with C# / .NET and/or Java is preferred.
-Familiarity with the following day-to-day tools or equivalents preferred
-GithubJiraConfluenceTeamCityOctopus DeployKibana /SplunkAppDynamicsPostmanPhotoshop / Figma
-Github
-Jira
-Confluence
-TeamCity
-Octopus Deploy
-Kibana /Splunk
-AppDynamics
-Postman
-Photoshop / Figma
-
-3**************************************************
-
-Pre-employment Background Check And Drug Screen Is Required.
-Collaborate with engineering and cross-functional teams to build and deliver custom enterprise software applications.
-Accurately estimate tasks, bugs and spikes in your domain.
-Build productive internal/external working relationships.
-Effectively manage risk, change, and uncertainty with support from your Manager and peers.
-Build a solid understanding of inter-team functional dependencies and navigate appropriate communication channels for solving issues as they arise.
-Design and implement new features while continuously improving quality of technical products and applications.
-Provide technical knowledge and share information as a developer on an agile squad.
-Remain current on new technologies and software development trends.
-Minimum Salary: $90,300
-Maximum Salary: $121,800
-Competitive base pay with potential for shift differential, overtime and bonus pay
-Medical insurance (98% company-paid for full-time employee only coverage)
-Dental and Vision insurance (100% company-paid for full-time employee only coverage)
-401(k) company match of 100% up to 6% of your pay
-Discounted Consumer Cellular wireless phone plan for employees
-Paid Time Off (PTO) available following a 30-day waiting period*
-6 company-paid holidays plus 16 hours of floating holiday accrual per year
-Flexible Spending Accounts (FSA) for health care and dependent care expenses
-Life and AD&D insurance equal to 1x your annual earnings (100% company-paid)
-Long-Term Disability insurance (100% company-paid)
-Employee Assistance Program (100% company-paid)
-Education reimbursement
-Employee rewards program
-Accrue up to 40 hours in 1st year for hourly positions and up to 120 hours for salaried positions.
-
-__________________________________________________
-
+Software Engineer - Platform
+ASM
 
 1**************************************************
 
@@ -460,6 +410,8 @@ Apply best practices in Python development, ensuring continuous improvement in c
 
 __________________________________________________
 
+Software Engineer
+Epic
 Relocation to the Madison, WI area (Reimbursed)
 BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
 A history of academic excellence or professional success
@@ -468,6 +420,8 @@ COVID-19 vaccination
 
 __________________________________________________
 
+Software Developer
+Cavalry Portfolio Services
 
 1**************************************************
 
@@ -497,6 +451,8 @@ Knowledge ofmicroservices architecture.
 
 __________________________________________________
 
+Java Developer
+Tata Consultancy Services
 Develop, test, Deploy and maintain application software in java.
 Deep understanding of Java, REST webservices, Spring Boot, Spring Batch and Microservices. Extensive development of new functionalities using above mentioned technologies.
 Automate the scheduler and develop jobs to load data in to database and monitor end-to-end system.
@@ -506,6 +462,8 @@ Production support for the applications with the extensive debugging to identify
 
 __________________________________________________
 
+Software Developer - Websites
+Sandhills Global
 
 1**************************************************
 
@@ -538,6 +496,8 @@ Assume other duties as assigned.
 
 __________________________________________________
 
+Software Engineer Entry Level
+General Dynamics Mission Systems
 
 1**************************************************
 
@@ -561,6 +521,8 @@ See more at gdmissionsystems.com/careers/why-work-for-us/benefits
 
 __________________________________________________
 
+Solutions Engineer
+Verkada
 
 1**************************************************
 
@@ -590,6 +552,8 @@ Healthy lunches and dinners provided daily
 
 __________________________________________________
 
+Developer
+Tata Consultancy Services
 Develop, test, Deploy and maintain application software in java.
 Deep understanding of Java, REST webservices, Spring Boot, Spring Batch and Microservices. Extensive development of new functionalities using above mentioned technologies.
 Automate the scheduler and develop jobs to load data in to database and monitor end-to-end system.
@@ -599,6 +563,25 @@ Production support for the applications with the extensive debugging to identify
 
 __________________________________________________
 
+Software Engineer Entry Level - Scottsdale, AZ
+VetJobs
+
+1**************************************************
+
+Minimum Education Required
+Bachelors
+
+2**************************************************
+
+Additional Qualifications/Responsibilities
+Basic Qualifications
+Requires a Bachelor’s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Agile experience preferred.
+CLEARANCE REQUIREMENTS: [Department of Defense Secret security clearance is preferred at time of hire.] Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+__________________________________________________
+
+Software Developer - E-Commerce
+Sandhills Global
 
 1**************************************************
 
@@ -632,21 +615,8 @@ Assume other duties as assigned.
 
 __________________________________________________
 
-
-1**************************************************
-
-Minimum Education Required
-Bachelors
-
-2**************************************************
-
-Additional Qualifications/Responsibilities
-Basic Qualifications
-Requires a Bachelor’s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Agile experience preferred.
-CLEARANCE REQUIREMENTS: [Department of Defense Secret security clearance is preferred at time of hire.] Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
-
-__________________________________________________
-
+Software Engineer- C#
+Consumer Cellular, Inc.
 
 1**************************************************
 
@@ -703,73 +673,13 @@ Accrue up to 40 hours in 1st year for hourly positions and up to 120 hours for s
 
 __________________________________________________
 
-Relocation to the Madison, WI area (Reimbursed)
-BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
-A history of academic excellence or professional success
-Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
-COVID-19 vaccination
+Software Engineering - DevOps Engineer
+Expedite Technology Solutions LLC
 
 __________________________________________________
 
-
-__________________________________________________
-
-Relocation to the Madison, WI area (Reimbursed)
-BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
-A history of academic excellence or professional success
-Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
-COVID-19 vaccination
-
-__________________________________________________
-
-Relocation to the Madison, WI area (Reimbursed)
-BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
-A history of academic excellence or professional success
-Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
-COVID-19 vaccination
-
-__________________________________________________
-
-Relocation to the Madison, WI area (Reimbursed)
-BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
-A history of academic excellence or professional success
-Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
-COVID-19 vaccination
-
-__________________________________________________
-
-Relocation to the Madison, WI area (Reimbursed)
-BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
-A history of academic excellence or professional success
-Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
-COVID-19 vaccination
-
-__________________________________________________
-
-Relocation to the Madison, WI area (Reimbursed)
-BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
-A history of academic excellence or professional success
-Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
-COVID-19 vaccination
-
-__________________________________________________
-
-Relocation to the Madison, WI area (Reimbursed)
-BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
-A history of academic excellence or professional success
-Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
-COVID-19 vaccination
-
-__________________________________________________
-
-Relocation to the Madison, WI area (Reimbursed)
-BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
-A history of academic excellence or professional success
-Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
-COVID-19 vaccination
-
-__________________________________________________
-
+Associate Developer
+Workforce Opportunity Services
 
 1**************************************************
 
@@ -833,6 +743,8 @@ Interest free loans (Case basis)
 
 __________________________________________________
 
+Software Engineer
+SkillStorm
 
 1**************************************************
 
@@ -874,6 +786,8 @@ Work closely with other departments, such as quality assurance, project manageme
 
 __________________________________________________
 
+Software Engineer 1 (iOS) - Aviation
+Garmin
 
 1**************************************************
 
@@ -901,33 +815,8 @@ Aviation experience or pilot license is a plus
 
 __________________________________________________
 
-
-1**************************************************
-
-Essential Functions
-Performs new product and/or application software design and development as well as maintenance activities for products and/or applications already in production using C, C++, C#, Java, assembly language, or other selected languages
-Troubleshoots basic issue reports, reproduces issues, evaluates technical cause and implements and tests software solutions
-Identifies and resolves defects of basic scope using proper engineering tools and techniques such as debuggers, emulators, simulators, and logic analyzers
-Applies design standards and procedures using appropriate engineering tools to document and implement basic designs in an organized manner
-Supports working hours as part of a rotating schedule to provide on call support of Garmin’s 24/7 operations
-
-2**************************************************
-
-Basic Qualifications
-Bachelor’s Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math, Physics or related field OR an equivalent combination of education and experience
-Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
-Demonstrated knowledge, education, experience and/or training necessary to develop basic software in C, C++, C#, Java, assembly language, or other selected languages
-
-3**************************************************
-
-Desired Qualifications
-Outstanding academics (cumulative GPA greater than or equal to 3.5)
-Previous work or internship experience in design, particularly for consumer products
-Experience in Swift, Objective-C, SwiftUI, UIKit
-Aviation experience or pilot license is a plus
-
-__________________________________________________
-
+Software Developer - International Websites
+Sandhills Global
 
 1**************************************************
 
@@ -960,9 +849,8 @@ Assume other duties as assigned.
 
 __________________________________________________
 
-
-__________________________________________________
-
+Software Developer | Hybrid
+OnTrac
 
 1**************************************************
 
@@ -1020,13 +908,14 @@ Ability to work both independently and in a team-oriented, collaborative environ
 
 __________________________________________________
 
+.NET Developer
+Tata Consultancy Services
 NET developer, Proven experience as a .NET Developer or
 
 __________________________________________________
 
-
-__________________________________________________
-
+Outsystems Developer (On-Site)
+Newrez LLC
 
 1**************************************************
 
@@ -1083,6 +972,8 @@ Newrez Grants Program: Newrez hosts a giving portal where we provide employees a
 
 __________________________________________________
 
+entry level Data scientist/ Java backed programmer with Docker
+SynergisticIT
 
 1**************************************************
 
@@ -1106,6 +997,8 @@ No phone calls please. Shortlisted candidates would be reached out. No third par
 
 __________________________________________________
 
+QA Tester
+Modigent
 
 1**************************************************
 
@@ -1138,6 +1031,8 @@ Implement feedback and changes whenever possible
 
 __________________________________________________
 
+Software Developer - Marketing Automation
+Sandhills Global
 
 1**************************************************
 
@@ -1171,6 +1066,8 @@ Assume other duties as assigned.
 
 __________________________________________________
 
+iOS Mobile Front End Software Engineer
+Garmin
 
 1**************************************************
 
@@ -1202,6 +1099,8 @@ Experienced with iOS mobile front end technologies such as but not limited to Sw
 
 __________________________________________________
 
+Software Research Engineer II
+Honeywell
 
 1**************************************************
 
@@ -1239,6 +1138,8 @@ Must be a US Person or able to obtain export Authorization.
 
 __________________________________________________
 
+Systems Engineer I
+Honeywell
 
 1**************************************************
 
@@ -1259,6 +1160,8 @@ Due to US export control laws, must be a US citizen, permanent resident or have 
 
 __________________________________________________
 
+APPLICATIONS DEVELOPER
+Russell Tobin
 
 1**************************************************
 
@@ -1276,6 +1179,8 @@ Performs other duties as assigned
 
 __________________________________________________
 
+Software Development Engineer, Market Operations & Structuring
+Arevon
 
 1**************************************************
 
@@ -1305,6 +1210,8 @@ Apply strong software engineering skills to transform complex business problems 
 
 __________________________________________________
 
+Database Developer
+Sandhills Global
 
 1**************************************************
 
@@ -1333,6 +1240,8 @@ Assume other database duties as assigned
 
 __________________________________________________
 
+Vehicle Development Engineer I, Vehicle Test
+Lucid Motors Europe
 
 1**************************************************
 
@@ -1373,6 +1282,8 @@ Recommend organizational or procedural improvements identified through various a
 
 __________________________________________________
 
+Advanced Embedded Software Engineer
+General Dynamics Mission Systems
 
 1**************************************************
 
@@ -1400,7 +1311,6 @@ MST
 https://app.brazenconnect.com/a/General_Dynamics/e/ROEmB
 ROLE AND POSITION OBJECTIVES:
 As an Advanced Embedded Software Engineer in the Space and Intelligence Systems business, you’ll be a member of a cross functional team responsible for design, development, and test of specialized solutions that are launched into space and considered by our customers to be national assets. Preferred: 3+ years of experience
-
 We encourage you to apply if you have any of these preferred skills or experiences including embedded real-time operating systems (VxWorks, Integrity, PetaLinux) and C/C++, Java, and Python programming languages.
 What sets you apart:
 Our Commitment to You:
@@ -1415,9 +1325,13 @@ This position is fully on-site. where you will be a part of the Scottsdale, Ariz
 
 __________________________________________________
 
+Talent Pool: Future Opportunities with Radix
+Radix
 
 __________________________________________________
 
+Vehicle Development Engineer I, Vehicle Test
+Lucid Motors
 
 1**************************************************
 
@@ -1458,6 +1372,8 @@ Recommend organizational or procedural improvements identified through various a
 
 __________________________________________________
 
+Technical Solutions Engineer
+Epic
 Bachelor's degree or greater
 A history of academic excellence or professional success
 Willingness to travel occasionally to customer locations
@@ -1467,6 +1383,8 @@ COVID-19 vaccination
 
 __________________________________________________
 
+Outsystems Developer (On-Site)
+Shellpoint Mortgage Servicing
 
 1**************************************************
 
@@ -1523,6 +1441,8 @@ Newrez Grants Program: Newrez hosts a giving portal where we provide employees a
 
 __________________________________________________
 
+Basic Records Engineer
+TSMC
 
 1**************************************************
 
@@ -1545,7 +1465,6 @@ Must demonstrate strong core values including Integrity, Respect, Teamwork, Qual
 Role
 As a Basic Record Engineer at TSMC Arizona site, you will co-work with Taiwan Central BR team to support TSMC flow change quality mission by leading and inspiring world-class operating systems. Your primary responsibility will be collaborating with fab engineers, process integration and manufacturing teams to ensure the quality of applications and well control the dispatch to fulfill production requirements.
 Responsibility
-
 Providing changing quality guidance and flow acknowledge consulting to ensure product success at launch and throughout high-volume technology ramp.
 Coordinate Fab user/CIM/IT team to drive global compliance to manufacturing flow change standard domain and automation implementation.
 Analysis by machine learning, modeling, and user operating procedure from specialized applications to developing and implementing more efficiently and smoothly systems or methods.
@@ -1553,6 +1472,8 @@ Qualifications
 
 __________________________________________________
 
+PROJECT ENGINEER
+Banda Group International, LLC
 
 1**************************************************
 
@@ -1613,6 +1534,8 @@ Other duties as assigned.
 
 __________________________________________________
 
+Java, Bigdata developer with GCP
+Tata Consultancy Services
 
 1**************************************************
 
@@ -1627,6 +1550,8 @@ Roles & Responsibilities
 
 __________________________________________________
 
+Engineer
+Tata Consultancy Services
 Active Directory architecture, Sites and Services and management.
 Expert knowledge in creating, administering, and troubleshooting Group Policies (GPOs).
 Active Directory Federation Services, SAML, SSO, PKI.
@@ -1650,6 +1575,8 @@ Azure certification such as AZ-300, AZ-303, or AZ-305.
 
 __________________________________________________
 
+PowerApps Developer - AZ
+Experis
 
 1**************************************************
 
