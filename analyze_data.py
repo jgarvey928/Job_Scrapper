@@ -10,6 +10,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk import ngrams
+import random
 
 # Print NLTK data paths
 print("NLTK data paths:", nltk.data.path)
@@ -26,7 +27,7 @@ def read_requirements(file_path):
     return data.split("\n__________________________________________________\n")
 
 # Load requirements from the file
-requirements = read_requirements('job_us_requirements1.txt')
+requirements = read_requirements('job_us_requirements2.txt')
 
 # Combine all requirements into a single list
 all_requirements_combined = ' '.join(requirements)
@@ -59,7 +60,7 @@ custom_stop_words = set([
     "previous", "pattern", "performs", "demonstrated", "effectively","salary",
     "benefit", "etc", "combination", "similar", "developer", "end",
     "expertise", "like", "good", "core", "spring", "slack", "e.g.", "highly",
-    "learning", "performance", "deployment", "boot"
+    "learning", "performance", "deployment", "boot", "building"
 ])
 
 # Remove stopwords and custom words
@@ -69,8 +70,8 @@ all_stop_words = stop_words.union(custom_stop_words)
 # Filter tokens: keep words with at least one alphanumeric character and not in stopwords
 filtered_tokens = [word for word in lemmatized_tokens if word not in all_stop_words and re.search(r'\w', word)]
 
-# Create less_filtered_tokens by removing periods and commas
-less_filtered_tokens = [re.sub(r'[.,]', '', word) for word in tokens]
+# Create less_filtered_tokens by removing periods, commas, "'s", and single character words
+less_filtered_tokens = [re.sub(r"\'s", '', re.sub(r'[.,]', '', word)) for word in tokens if len(word) > 1]
 
 # # Debugging: Print filtered tokens to verify stopwords removal
 # print("Filtered tokens:", filtered_tokens)
@@ -90,12 +91,13 @@ def frequency_analysis(tokens):
     top_skills = list(words)
     
     # Bar Graph
-    plt.figure(figsize=(10, 5))
+    plt.figure(figsize=(12, 6))  # Increased figure size
     plt.bar(words, counts)
     plt.xlabel('Skills')
     plt.ylabel('Frequency')
     plt.title('Most Common Skills in Requirements')
-    plt.xticks(rotation=90)
+    plt.xticks(rotation=45, ha='right')  # Rotate x-axis labels for better visibility
+    plt.tight_layout()  # Adjust layout to prevent clipping
     plt.savefig(pdf, format='pdf')
     plt.close()
     
@@ -107,9 +109,13 @@ def frequency_analysis(tokens):
     plt.savefig(pdf, format='pdf')
     plt.close()
 
+# Custom color function for word clouds
+def random_color_func(word, font_size, position, orientation, random_state=None, **kwargs):
+    return "hsl({}, {}%, {}%)".format(random.randint(0, 360), random.randint(50, 100), random.randint(25, 75))
+
 # Word Cloud
 def generate_word_cloud(text, title):
-    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+    wordcloud = WordCloud(width=800, height=400, background_color='white', color_func=random_color_func).generate(text)
     plt.figure(figsize=(10, 5))
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')
@@ -147,15 +153,16 @@ def ngram_analysis(tokens, n=2):
     plt.close()
 
 # Save all plots to a single PDF file
-with PdfPages('requirements_us_analysis1.pdf') as pdf:
+with PdfPages('requirements_us_analysis2.pdf') as pdf:
     frequency_analysis(filtered_tokens)
     generate_word_cloud(' '.join(top_skills), 'Word Cloud of Top Skills')
     generate_word_cloud(' '.join(filtered_tokens), 'Word Cloud of Skills in Requirements')
     # skill_clustering(requirements)
     ngram_analysis(less_filtered_tokens, 3)  # Bigrams
-    ngram_analysis(less_filtered_tokens, 6)  # Trigrams
-    ngram_analysis(less_filtered_tokens, 9)  # 
-    ngram_analysis(less_filtered_tokens, 12)  # 
+    ngram_analysis(less_filtered_tokens, 4)  # Trigrams
+    ngram_analysis(less_filtered_tokens, 5)  # Trigrams
+    ngram_analysis(less_filtered_tokens, 6)  # 
+    ngram_analysis(less_filtered_tokens, 9)  #
 
 
 
