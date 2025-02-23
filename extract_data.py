@@ -10,8 +10,10 @@ keywords = [
     "essential skills", "essential skill", "job requirements", "job requirement", "job qualifications",
     "job qualification", "required experience", "preferred experience", "required education", "desired qualifications",
     "desired qualification", "experience", "education", "skills", "skill", "must-have", "must haves", "must-have skills",
-    "must-have skill", "required", "preferred", "essential", "basic", "necessary", "mandatory", "needed", "desired"
-]
+    "must-have skill", "required", "preferred", "essential", "basic", "necessary", "mandatory", "needed", "desired",
+    "Who Should Apply", "What We're Looking For", "What You'll Do", "What You'll Need", 
+    "What You'll Bring", "What You'll Be Doing", "What You'll Be Responsible For", 
+]   
 
 # Compile a regular expression pattern to match any of the keywords
 keywords_pattern = re.compile('|'.join([re.escape(keyword) for keyword in keywords]), re.IGNORECASE)
@@ -25,11 +27,19 @@ def contains_keywords(text):
 def not_single_word(text):
     return ' ' in text
 
-def extract_csv(input_file):
-    with open(input_file, mode='r', newline='', encoding='utf-8') as infile:
+def clean_html(description):
+    soup = BeautifulSoup(description, 'html.parser')
+    text = soup.get_text(separator="\n")
+    # Remove leading/trailing whitespaces and empty lines
+    cleaned_text = "\n".join([line.strip() for line in text.splitlines() if line.strip()])
+    return cleaned_text
 
+def extract_csv(input_file):
+    modified_rows = []
+
+    with open(input_file, mode='r', newline='', encoding='utf-8') as infile:
         reader = csv.DictReader(infile)
-        fieldnames = reader.fieldnames
+        fieldnames = reader.fieldnames + ['Cleaned'] + ['Requirements']  # Add the new 'Requirements' field
 
         for row in reader:
             collected_text = []
@@ -54,7 +64,7 @@ def extract_csv(input_file):
                     collected_text.append("\n" + str(i) + ("*" * 50) + "\n")
                     collected_text.append(strong.get_text(strip=True))
                     
-                    # sCollect all sibling elements and text nodes until the next <strong> or end of parent container
+                    # Collect all sibling elements and text nodes until the next <strong> or end of parent container
                     for sibling in strong.next_siblings:
                         if sibling.name == 'strong':
                             break
@@ -106,7 +116,7 @@ def extract_csv(input_file):
                     unique_collected_text.append(section)
                     seen.add(section)
             
-            # Print the unique collected text list using an index-based iteration
+            # Filters redundancies from the collected text list (kinda)
             index = 0
             while index < len(unique_collected_text):
                 if (index+2) < len(unique_collected_text):
@@ -122,8 +132,18 @@ def extract_csv(input_file):
                     # print(str(index) + " - "+ unique_collected_text[index])
                 index += 1
 
-def extract_data(name_file):
+            row['Cleaned'] = clean_html(row['Description'])
+            row['Requirements'] = "".join(unique_collected_text)
+            modified_rows.append(row)
 
+    # Write the modified rows back to the CSV file
+    with open(input_file, mode='w', newline='', encoding='utf-8') as outfile:
+        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(modified_rows)
+
+
+def extract_data(name_file):
     extract_csv('scrapped_data/'+name_file+'.csv')
     requirements = all_requirements
     # Remove empty or whitespace-only items from all_requirements

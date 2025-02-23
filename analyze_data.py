@@ -172,6 +172,7 @@ def analyze_data(name_file):
         "task", "collaborative","hour","united","duty", "relocation", "sponsorship", "state",
         "control", "manage", "dental" ,"organization", "scope", "day", "ensuring", "visa",
         "excellence","specific", "solve", "lead", "keep", "detail", "identify", "continuous","power",
+        "global",
 
 
     ])
