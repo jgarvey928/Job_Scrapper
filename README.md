@@ -1,4 +1,6 @@
 
+LinkedIN HTML Tags
+
 results-context-header__context     #class for search list info
 
 	results-context-header__job-count     #class for search list job count
@@ -7,7 +9,7 @@ results-context-header__context     #class for search list info
 
 
 
-<ul jobs-search__results-list>     #class for all the jobs
+ul jobs-search__results-list     #class for all the jobs
 
 	base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]      #class for job posting with the href url for the job details
 

@@ -1240,48 +1240,6 @@ Assume other database duties as assigned
 
 __________________________________________________
 
-Vehicle Development Engineer I, Vehicle Test
-Lucid Motors Europe
-
-1**************************************************
-
-Required Qualifications
-0-3 years of experience in the Automotive/EV or relevant industry.
-Good problem-solver with hands-on abilities.
-Detail-oriented mindset with strong organizational skills to manage multiple projects and resources at the same time.
-Self-starter with high levels of motivation and strong desire to continue learning.
-Excellent interpersonal and collaborative skills coupled with a strong work ethic.
-Understanding of vehicle systems and system interactions.
-Interest in the vehicle development process.
-
-2**************************************************
-
-Advantageous Experience
-Experience with FSAE, Baja or other DIY activities is a plus.
-Any automotive industry experience is a plus.
-
-3**************************************************
-
-Education
-Bachelor of Science minimum in a relevant science or engineering field
-By Submitting your application, you understand and agree that your personal data will be processed in accordance with our Candidate Privacy Notice. If you are a California resident, please refer to our California Candidate Privacy Notice.
-Be the single point of contact responsible for the assigned test vehicle(s), maintain HW and SW configurations, service and utilization history of those vehicles.
-Support required HW upfits, SW flashing and diagnosis through CAN, LIN and Ethernet communication.
-Review test plans assigned by engineering teams and understand test requirements.
-Vehicle preparation (HW/SW updates, install of instrumentation and data acquisition equipment) to meet test requirements.
-Support planning for parts, people, logistics and facilities to execute vehicle-level testing including risk assessments.
-Work within vehicle development and with cross-functional teams for supporting test requirements and keep all relevant stakeholders updated on progress.
-Execute vehicle-level test plans in lab, proving grounds and public road settings.
-Collect accurate vehicle data per test requirements, to troubleshoot issues and provide feedback to the relevant stakeholders.
-Document all test results in a clear and concise manner.
-Identify and document all issues with the relevant details, data and test logs.
-Support issue investigation with re-testing and drive towards resolution.
-Extensive domestic and international travel to test sites and fleet drives.
-Develop autonomy to ensure all vehicle development activities are completed with minimal disruption to the scope and schedule requirements.
-Recommend organizational or procedural improvements identified through various activities.
-
-__________________________________________________
-
 Advanced Embedded Software Engineer
 General Dynamics Mission Systems
 
@@ -1534,6 +1492,43 @@ Collaborative and inclusive work environment.
 Professional development and growth opportunities.
 Engagement with a diverse team of professionals.
 Chance to make a significant impact on the organization’s success.
+
+__________________________________________________
+
+Aircraft Performance Engineer 1
+Garmin
+
+1**************************************************
+
+Essential Functions
+Design, develop, test, and deploy aircraft performance systems
+Learn and utilize programming techniques to assist with solving small-to-mid-scale problems
+Work independently and with internal development teams to develop and test full system functionality
+Calculate, analyze, and document basic aircraft performance data
+Communicate aircraft performance related information to internal staff and customers
+Ability to plan, coordinate and schedule effectively
+Able to identify and resolve defects using proper engineering tools and techniques such as debuggers and simulators
+Work collaboratively and professionally in a team environment with other Garmin associates and aircraft manufacturers
+
+2**************************************************
+
+Basic Qualifications
+Bachelor’s Degree in Aeronautical Engineering, Physics, Mathematics or related field OR an equivalent combination of education and experience
+Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
+Programming and scripting experience (FORTRAN, Python or a similar programming language)
+Strong and effective verbal, written and interpersonal communication skills
+Driven problem solver with exceptional technical troubleshooting, organizational and time management skills and demonstrated ability to resolve problems with minimal supervision
+
+3**************************************************
+
+Desired Qualifications
+Experience with Aircraft Performance Data
+Experience in creating software that complies with aircraft performance regulations
+Experience in developing software for a Flight Management System (FMS)
+Experience with DO-178B/DO-178C certification
+FAA Private Pilot License
+Experience in working with Aviation Authorities (FAA/EASA)
+Experience with Airworthiness Standards (Part 23 and Part 25)
 
 __________________________________________________
 
