@@ -7,6 +7,28 @@ from bs4 import BeautifulSoup
 import csv
 import time
 
+def remove_duplicates(file):
+    # Read the CSV file
+    with open(file, mode='r', encoding='utf-8') as infile:
+        reader = csv.DictReader(infile)
+        rows = list(reader)
+
+    # Use a set to track unique (Job Title, Company) pairs
+    seen = set()
+    unique_rows = []
+
+    for row in rows:
+        job_title = row["Job Title"]
+        company = row["Company"]
+        if (job_title, company) not in seen:
+            seen.add((job_title, company))
+            unique_rows.append(row)
+
+    # Write the unique rows back to the CSV file
+    with open(file, mode='w', newline='', encoding='utf-8') as outfile:
+        writer = csv.DictWriter(outfile, fieldnames=reader.fieldnames)
+        writer.writeheader()
+        writer.writerows(unique_rows)
  
 def scrape_data( name_file, website_link, post_limit):
 
@@ -79,26 +101,3 @@ def scrape_data( name_file, website_link, post_limit):
     # Close the browser
     driver.quit()
     remove_duplicates('scrapped_data/' + name_file + '.csv')
-
-def remove_duplicates(file):
-    # Read the CSV file
-    with open(file, mode='r', encoding='utf-8') as infile:
-        reader = csv.DictReader(infile)
-        rows = list(reader)
-
-    # Use a set to track unique (Job Title, Company) pairs
-    seen = set()
-    unique_rows = []
-
-    for row in rows:
-        job_title = row["Job Title"]
-        company = row["Company"]
-        if (job_title, company) not in seen:
-            seen.add((job_title, company))
-            unique_rows.append(row)
-
-    # Write the unique rows back to the CSV file
-    with open(file, mode='w', newline='', encoding='utf-8') as outfile:
-        writer = csv.DictWriter(outfile, fieldnames=reader.fieldnames)
-        writer.writeheader()
-        writer.writerows(unique_rows)

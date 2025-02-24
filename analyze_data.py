@@ -45,6 +45,10 @@ def frequency_analysis(tokens, num_top, pdf):
     combined_tokens = combine_similar_words(combined_tokens, 'backend','back-end')  
     combined_tokens = combine_similar_words(combined_tokens, 'apis','api')  
     combined_tokens = combine_similar_words(combined_tokens, 'windows','window')  
+    combined_tokens = combine_similar_words(combined_tokens, 'analysis','analyze')  
+    combined_tokens = combine_similar_words(combined_tokens, 'analysis','analytics') 
+    combined_tokens = combine_similar_words(combined_tokens, 'reporting','report') 
+    combined_tokens = combine_similar_words(combined_tokens, 'communication','communicate') 
 
     frequency = Counter(combined_tokens)
 
@@ -131,6 +135,9 @@ def analyze_data(name_file):
     # Tokenize the combined text
     tokens = word_tokenize(all_requirements_combined)
 
+    # TODO: Add more text processing for present tense
+    # present_tokens = [conjugate(word, tense=PRESENT) for word in tokens]
+
     # Lemmatization and remove purely numeric tokens
     lemmatizer = WordNetLemmatizer()
     lemmatized_tokens = [lemmatizer.lemmatize(word.lower()) for word in tokens if not word.isdigit()]
@@ -141,7 +148,7 @@ def analyze_data(name_file):
         "knowledge", "skills", "ability", "must", "have", "with", "the", "and", "or", "to", "a", "in", "of", "for", "on", "as", "is", "are",
         "software", "development", "technology", "strong", "design", "business", "computer",
         "project", "engineering", "technical", "system", "application", "degree", "related", "environment", "solution", "bachelor",
-        "preferred", "data", "problem", "excellent", "plus", "communication", "practice", "process", "working", "including", "tool", "written",
+        "preferred", "data", "problem", "excellent", "plus", "practice", "process", "working", "including", "tool", "written",
         "skill", "team", "support", "science", "life", "basic", "best", "within", "security", "required", "approach",
         "familiarity", "equivalent", "learn", "industry", "build", "role", "service", "field",
         "academic", "cumulative", "gpa", "company", "government", "agency", "perform",
@@ -172,7 +179,9 @@ def analyze_data(name_file):
         "task", "collaborative","hour","united","duty", "relocation", "sponsorship", "state",
         "control", "manage", "dental" ,"organization", "scope", "day", "ensuring", "visa",
         "excellence","specific", "solve", "lead", "keep", "detail", "identify", "continuous","power",
-        "global",
+        "global", "internal", "member", "able", "request" , "various", "operational", "attention", 
+        "disability", "responsibility", "operation", "policy", "necessary" , "conduct", "workflow" ,
+        "department", "analyst", "operating", "employer", "location", "external", "source",
 
 
     ])
@@ -195,6 +204,7 @@ def analyze_data(name_file):
         ngram_analysis(less_filtered_tokens, 4, 20, pdf)  # 
         ngram_analysis(less_filtered_tokens, 6, 20, pdf)  # 
         ngram_analysis(less_filtered_tokens, 8, 20, pdf)  #
+        ngram_analysis(less_filtered_tokens, 12, 20, pdf)  #
         generate_word_cloud(' '.join(top_skills), 'Word Cloud of Top Skills', pdf)
         generate_word_cloud(' '.join(filtered_tokens),  'Word Cloud of Skills in Requirements', pdf)
         # skill_clustering(requirements)

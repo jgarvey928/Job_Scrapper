@@ -56,15 +56,46 @@ def read_text_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
+# Function to check if a string contains any of the keywords
+def contains_keywords(text):
+    
+    # List of keywords to identify the requirements section
+    keywords = [
+        "entry level", "entry-level", "early career", 
+        "early-career", "junior", "jr", "1",
+    ]   
+    
+    # Check if i... ( the char i followed by any numbers or letters) is in the text
+    if re.search(r'\bi\b', text.lower()):
+        return True
+    
+    for keyword in keywords:
+        if keyword.lower() in text.lower() and not "senior" in text.lower():
+            return True
+    return False 
+
+# Custom key function to prioritize job titles containing "jr"
+def sort_key(job):
+    #TODO: Fix this return sorting logic
+    return( 0 if("entry level" in job["Job Title"].lower() or
+                 "entry-level" in job["Job Title"].lower() or
+                 "early career" in job["Job Title"].lower() or
+                 "early-career" in job["Job Title"].lower() or
+                 "junior" in job["Job Title"].lower() or
+                 "jr" in job["Job Title"].lower() )
+            else 1)
+
 def generate_letters(file_name, letter_count):
     
     input_file = 'scrapped_data/'+file_name+'.csv'
     job_descriptions = []
-     
+    top_jobs = []
+
     # Read the CSV file
     with open(input_file, mode='r', encoding='utf-8') as infile:
         reader = csv.DictReader(infile)
-        
+        count = 0
+
         for row in reader:
             # Extract the required fields
             job_info = {
@@ -72,8 +103,12 @@ def generate_letters(file_name, letter_count):
                 "Company": row["Company"],
                 "Cleaned": row["Cleaned"]
             }
-            print(str(job_info)+"\n")
+            # print(str(job_info)+"\n")
             job_descriptions.append(job_info)
+
+            if(contains_keywords(job_info["Job Title"]) and count < letter_count ):
+                top_jobs.append(job_info)
+                count += 1
 
     # Example usage:
     cl_file_path = "letters/cover_letter_template.txt"
@@ -93,12 +128,12 @@ def generate_letters(file_name, letter_count):
     except Exception as e:
         print(f"Error reading file: {e}")
         return None
-    
-    count = 0
-    for data in job_descriptions:
-        if count > letter_count:
-            break
+
+    # Sort the list using the custom key function
+    sorted_top_jobs = sorted(top_jobs, key=sort_key)
+    for data in sorted_top_jobs:
         job_data_content = data["Job Title"] + "\n" + data["Company"] + "\n" + data["Cleaned"]
+        print("Entry Level Job:  " + data["Job Title"] + "   " + data["Company"])
         response = analyze_text_from_file(system_instructions, job_data_content, cl_text_content)
         time.sleep(2)
         if response:
@@ -109,9 +144,8 @@ def generate_letters(file_name, letter_count):
             write_docx(file_name, response)
         else:
             print("Failed to get a response from Gemini.")
-        count += 1
 
 
 if __name__ == '__main__':
     file = 'se_phx_entry_onsite_month_02_23_25'
-    generate_letters(file, 2)
+    generate_letters(file, 10)
