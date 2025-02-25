@@ -76,14 +76,15 @@ def contains_keywords(text):
 
 # Custom key function to prioritize job titles containing "jr"
 def sort_key(job):
-    #TODO: Fix this return sorting logic
-    return( 0 if("entry level" in job["Job Title"].lower() or
-                 "entry-level" in job["Job Title"].lower() or
-                 "early career" in job["Job Title"].lower() or
-                 "early-career" in job["Job Title"].lower() or
-                 "junior" in job["Job Title"].lower() or
-                 "jr" in job["Job Title"].lower() )
-            else 1)
+    if "entry level" in job["Job Title"].lower() or "entry-level" in job["Job Title"].lower():
+       return 0
+    if "early career" in job["Job Title"].lower() or "early-career" in job["Job Title"].lower():
+       return 1
+    if "junior" in job["Job Title"].lower() or "jr" in job["Job Title"].lower():
+       return 2
+    if "1" in job["Job Title"].lower():
+       return 3
+    return 4
 
 def generate_letters(file_name, letter_count):
     
@@ -148,4 +149,4 @@ def generate_letters(file_name, letter_count):
 
 if __name__ == '__main__':
     file = 'se_phx_entry_onsite_month_02_23_25'
-    generate_letters(file, 10)
+    generate_letters(file, 20)

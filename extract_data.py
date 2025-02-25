@@ -12,7 +12,9 @@ keywords = [
     "desired qualification", "experience", "education", "skills", "skill", "must-have", "must haves", "must-have skills",
     "must-have skill", "required", "preferred", "essential", "basic", "necessary", "mandatory", "needed", "desired",
     "Who Should Apply", "What We're Looking For", "What You'll Do", "What You'll Need", 
-    "What You'll Bring", "What You'll Be Doing", "What You'll Be Responsible For", 
+    "What You'll Bring", "What You'll Be Doing", "What You'll Be Responsible For",  "What do you need to have",
+    "What Do You Need To Bring", "What You'll Need To Bring", "What You'll Need To Have", "What You'll Need To Do",
+    
 ]   
 
 # Compile a regular expression pattern to match any of the keywords
@@ -61,7 +63,7 @@ def extract_csv(input_file):
                 # Check if the <strong> element contains any of the keywords
                 if contains_keywords(strong.get_text(strip=True)):
                     i += 1
-                    collected_text.append("\n" + str(i) + ("*" * 50) + "\n")
+                    collected_text.append("\n" + str(i) + "\n")
                     collected_text.append(strong.get_text(strip=True))
                     
                     # Collect all sibling elements and text nodes until the next <strong> or end of parent container

@@ -1,0 +1,1465 @@
+Junior Data Engineer
+Paramount
+Design, develop, and maintain robust and scalable data pipelines using Python and Apache Airflow
+Implement ETL (Extract, Transform, Load) processes for diverse data sources, ensuring data quality and consistency.
+Collaborate with data scientists, analysts, and other engineers to understand data needs and translate them into efficient, well-documented solution
+Monitor and solve data pipelines, proactively identifying and resolving issues to maintain high availability.
+Contribute to the development and improvement of our data infrastructure, using open-source technologies and cloud-native services. While our current platform is GCP, experience with other cloud providers (AWS, Azure) is highly valued as we strive for platform-agnostic solutions.
+Work with Kubernetes to manage and orchestrate our data pipelines.
+Participate actively in agile development sprints, contributing to sprint planning, daily stand-ups, and retrospectives.
+Create code that is clean, well-documented, and can be easily tested, following established coding standards.
+Participate in code reviews, offering constructive feedback and continuously improving our codebase.
+Stay abreast of the latest technologies and trends in data engineering, proactively suggesting improvements to our processes and tools.
+Bachelor's degree in Computer Science, Engineering, or a related field
+3+ years of experience in data engineering or a related field
+Strong programming skills in Python
+Experience with Apache Airflow or similar workflow management tool
+Experience with Kubernetes for container orchestration
+Experience with at least one major cloud provider (GCP, AWS, or Azure); experience with multiple is a strong plus
+Demonstrated ability to adapt to different cloud environments is crucial
+Understanding of data warehousing concepts and principles.
+Proficiency with SQL and experience with relational and/or NoSQL database
+Excellent problem-solving and analytical skills
+Strong communication and collaboration skills, essential for working effectively within an agile team
+Experience with data modeling and schema design
+Experience with big data technologies (e.g., Spark, Hadoop)
+Experience with CI/CD pipelines and terraform
+Experience with containerization tools (e.g., Docker, Kubernetes)
+Experience using Git
+
+__________________________________________________
+
+Software Engineer I, Recent Graduate
+Acorns
+Learn from Engineering talent how we do craftsmanship at Acorns
+Own and develop solutions to product and coding issues
+Contribute to the broader Engineering team by participating in peer reviews
+Deploy your code in production to millions of Acorns’ users
+Take full ownership of at least one feature, from requirements to implementation
+Identify areas for improvement and drive your vision for Acorns’ technology forward
+Contribute to and evangelize Acorns’ engineering culture
+Lead projects that involve cross-functional teams to build major new features
+Become an expert on the services or features you helped build
+Collaborate with Engineering team to build innovative solutions while bringing new ideas, technologies, and methodologies to the table
+Write high-quality code with one or more programming languages
+Produce excellent design and development documentation
+Currently pursuing a Bachelor’s degree in computer science, software engineering, machine learning, mathematics, statistics, or a related field
+Required: Senior standing (Graduating 2025)
+Excellent command of one or more programming languages; Java, Scala, Ruby, Swift, Kotlin, Typescript, or Javascript
+Exceptional communication skills (verbal, written, and presentation)
+Hunger to learn new technologies
+Passion, drive, and ability to thrive in a startup environment
+Ownership of the software you produce
+Passion for self-improvement and learning
+Understanding of design patterns, basic algorithms, and data structures
+Thirst for delivering game-changing products
+Exceptional drive and precision in delivery
+A belief that your work is tied to your life's mission
+Optimistic about the potential of societal change
+Competitive salary and stock options
+A comprehensive benefits package for you and your family
+Flexible work location, hours, and paid time off
+401(k) discretionary match
+Monthly Acorns account contribution & GoHenry account for your family
+Mindfulness and Financial Wellness resources, Headspace and Addition Wealth
+Acorns Career Development Program (Ongoing training sessions, development plans, development check-ins, Cornerstone’s online training platform)
+Roots Leadership Program for Emerging Leaders
+Community week onsite gatherings and various virtual events
+Talented and motivated team members who care deeply about one another, our mission, and our customers.
+The rare opportunity to create a new world. We inspire one another every day to do meaningful work that solves big societal challenges.
+Managers are constantly raising the bar
+Managers ensure all team members have a voice and a path
+No surprises - Managers give and receive feedback early and often
+Managers continuously assess performance action on concerns quickly
+Managers foster a resilient, results-oriented mindset
+
+__________________________________________________
+
+Analytics Engineer I
+Oscar Health
+
+1**************************************************
+
+Qualifications
+1+ years of experience in Analytics Engineering, Data Science, or a related field.1+ years of experience working with SQL.1+ years of experience developing in a semantic modeling language (e.g. LookML).1+ years of experience developing within a modern data transformation tool like DBT.1+ years of experience with cloud database tools (GCP, AWS, Azure).
+Bonus Points
+Experience working with healthcare data, analytics and reporting, particularly with claims payments data.Experience with GCP and/or DBT.A background in healthcare and/or insurance.Strong communication skills, verbal and written, as demonstrated by experience on at least 1 project or initiative requiring communication between technical and non-technical users.
+This is an authentic Oscar Health job opportunity. Learn more about how you can safeguard yourself from recruitment fraud here.
+At Oscar, being an Equal Opportunity Employer means more than upholding discrimination-free hiring practices. It means that we cultivate an environment where people can be their most authentic selves and find both belonging and support. We're on a mission to change health care -- an experience made whole by our unique backgrounds and perspectives.
+1+ years of experience in Analytics Engineering, Data Science, or a related field.
+1+ years of experience working with SQL.
+1+ years of experience developing in a semantic modeling language (e.g. LookML).
+1+ years of experience developing within a modern data transformation tool like DBT.
+1+ years of experience with cloud database tools (GCP, AWS, Azure).
+Experience working with healthcare data, analytics and reporting, particularly with claims payments data.
+Experience with GCP and/or DBT.
+A background in healthcare and/or insurance.
+Strong communication skills, verbal and written, as demonstrated by experience on at least 1 project or initiative requiring communication between technical and non-technical users.
+Become a financial data subject matter expert and use that knowledge to understand and organize raw data sources and structure them into CDS (certified data sets) which stakeholders can readily rely on and self service with.
+Partner with the Finance team to expand the breadth and depth of finance CDS to support its processes and to more seamlessly integrate CDS into Finance's systems.
+Facilitate automation of key Finance team process by programming reports based on complex queries.
+Partner with Engineering to validate updates to raw financial data structure within an evolving production system and update CDS code accordingly while preventing service interruption for stakeholders.
+Promote data fidelity in upstream data producing systems and expand quality checks within finance CDS.
+Conduct root cause analyses of financial data defects and escalate to upstream data owners or cure in finance CDS.
+Compliance with all applicable laws and regulations.
+Other duties as assigned.
+
+__________________________________________________
+
+Junior Data Engineer (Remote)
+SynergisticIT
+
+1**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+2**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+3**************************************************
+
+Required Skills
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+
+4**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Databricks, Tensorflow
+
+5**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Data Engineer (Entry Level)
+SynergisticIT
+
+1**************************************************
+
+SYNERGISTICIT wants every candidate to know that the Job Market is Challenging and to stand out, you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need
+
+2**************************************************
+
+Who Should Apply
+: Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates looking to make their careers in IT Industry
+Candidates who are serious about their future in the IT Industry and have set big goals for themselves.
+Candidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. We also offer Skill enhancement programs if the candidates are missing skills or experience which our clients need with great outcomes
+Candidates can benefit from skill enhancement if they fall into the below categories. If they are qualified with enough skills then no need for skill enhancement
+
+3**************************************************
+
+Candidates Who Lack Experience
+Have had a break in careers
+Lack Technical Competency
+Different visa candidates who want to get employed and settle down in the USA
+
+4**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+If not a match candidates can opt for Skill enhancement.
+
+5**************************************************
+
+REQUIRED SKILLS For Java/Software Programmers
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices and REST API's experience
+Excellent written and verbal communication skills
+
+6**************************************************
+
+Required Skills
+Knowledge of Statistics, Python, data visualization tools
+
+7**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, Time series analysis
+Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients.
+
+__________________________________________________
+
+Data Engineer 1
+Pax8
+
+1**************************************************
+
+Essential Responsibilities:
+Learns coding techniques/standards and applies them to their work. (20%)
+Define, build, test, and implement scalable data pipelines using Python and SQL. (20%)
+Transforms data to support varied use cases. (20%)
+Optimizes existing data pipelines and improves existing code quality. (20%)
+Writes unit and integration tests. (10%)
+Works collaboratively with peers to solve pressing data issues. (5%)
+Participates in on-call rotation. (5%)
+
+2**************************************************
+
+Ideal Skills, Experience, and Competencies:
+At least one (1) to three (3) years of relevant data engineering experience.
+Intermediate experience with the Python programming language.
+Intermediate experience with SQL.
+Experience with Data Modeling.
+Exposure to a JVM language.
+Exposure to Apache Spark or other distributed processing engines.
+Exposure to Apache Kafka or other stream processing frameworks.
+Exposure to Terraform, Docker, Kubernetes, or other similar infrastructure tooling.
+Exposure to job orchestration and/or ETL tools such as Airflow, Prefect, Glue, Talend, or Informatica.
+Exposure to cloud environments such as AWS, Azure, or Google Cloud.
+Exposure to analytical databases such as Redshift, Athena, Big Query, and Presto.
+Ability to build partnerships and work collaboratively with others to meet shared objectives.
+Ability to actively seek new ways to grow using both formal and informal development challenges.
+Ability to effectively absorb and apply peer feedback.
+
+3**************************************************
+
+Required Education & Certifications:
+B.A./B.S. in a related field or equivalent work experience.
+Non-Commissioned Bonus Plans or Variable Commission
+401(k) plan with employer match
+Medical, Dental & Vision Insurance
+Employee Assistance Program
+Employer Paid Short & Long Term Disability, Life and AD&D Insurance
+Flexible, Open Vacation
+Paid Sick Time Off
+Extended Leave for Life events
+RTD Eco Pass (For local Colorado Employees)
+Career Development Programs
+Stock Option Eligibility
+Employee-led Resource Groups
+
+__________________________________________________
+
+Junior/Entry Data Engineer (Remote)
+SynergisticIT
+
+1**************************************************
+
+Acquiring the right technology skillsets which are being demanded by clients and getting yourself in front of clients is the way to get to get Interviews and eventually a Job Offer. Survival of the Fittest is the only way to get a tech Job in this job market.
+
+2**************************************************
+
+In this Layoffs fueled market also SynergisticIT's candidates are able to achieve multiple job offers and $100k &plus; salaries once they acquire the required skills.
+
+3**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+4**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+5**************************************************
+
+Required Skills
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+
+6**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Databricks, Tensorflow
+
+7**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Data Engineer
+Flagler Health
+
+1**************************************************
+
+Required Qualifications
+Proven experience working with Databricks and Spark compute.
+Proficient in Python, including object-oriented programming and API development.
+Familiarity with NoSQL (MongoDB preferred), including querying, data modeling, and optimization.
+Strong problem-solving skills and ability to debug and optimize data processing tasks.
+Experience with large-scale data processing and distributed systems.
+
+2**************************************************
+
+Preferred Qualifications
+Strong understanding of data architecture, ETL processes, and data warehousing concepts.
+Knowledge of other big data technologies like Delta Lake, Hadoop, or Kafka.
+Experience with cloud platforms (e.g., AWS, Azure, or GCP).
+Familiarity with CI/CD pipelines and version control systems like Git.
+Develop, manage, and optimize data pipelines on the Databricks platform.
+Debug and troubleshoot Spark applications to ensure reliability and performance.
+Implement best practices for Spark compute and optimize workloads.
+Python Development:
+Write clean, efficient, and reusable Python code using object-oriented programming principles.
+Design and build APIs to support data integration and application needs.
+Develop scripts and tools to automate data processing and workflows.
+Integrate, query, and manage data within MongoDB.
+Ensure efficient storage and retrieval processes tailored to application requirements.
+Optimize MongoDB performance for large-scale data handling.
+Collaboration and Problem Solving:
+Work closely with data scientists, analysts, and other stakeholders to understand data needs and deliver solutions.
+Proactively identify and address technical challenges related to data processing and system design.
+Persistence + ownership of outcomes: We wear many hats and aren’t afraid to run through walls to solve hard problems.
+Personal + professional growth: We push ourselves to learn new things and embrace challenges, even if it means that we sometimes fail.
+Don’t take things personally: We value and react quickly to constructive feedback.
+Speed is our ally: In the fast-paced world of startups, we understand the value of moving swiftly. We thrive on the adrenaline of working rapidly.
+Be Right: We are highly detailed oriented and try to be right, a lot.
+Competitive Salary & Meaningful Equity based on experience
+Unlimited PTO
+Health, dental, vision
+401k
+Annual team offsite
+
+__________________________________________________
+
+Data Engineer
+EMERGE
+
+1**************************************************
+
+Requirements
+Bachelor’s degree or higher in Computer Science, Information Systems, or demonstrated ability in a related field required
+1-5 years of experience working with data environments in an engineering or technical capacity
+Expertise working with data using structured (SQL) and/or unstructured (NoSQL) approaches, Redshift experience a plus
+Experience with or exposure to data visualization principles and practices, especially with PowerBI and Tableau
+Base pay range between $65,000-$95,000 depending on experience
+10% annual bonus
+Full comprehensive benefits (medical, dental, vision)
+PTO and paid sick leave
+Design, develop, and maintain data pipelines and datastores that support enterprise data science, analytics and operations
+Identify, track and analyze?performance of data layer services, recommending solutions and improvements to enhance stability, efficiency, and performance.
+Collaborate with your peers across the Research & Technology organization.
+Understanding of the Agile process and/or experience working in Jira
+Understanding of industry standard concepts, practices, procedures, and software development life-cycle methodologies (git required, Jira experience a plus)
+Expertise using AWS or other cloud platforms to ingest data from internal and external sources using cloud-native technologies including/similar to S3, EMR (Spark), Lambda, Kinesis, Firehose, Glue, Terraform
+Expert programmer, day-to-day you will be working in Python &/or Scala
+Understanding of infrastructure as code principles
+
+__________________________________________________
+
+Data Engineer
+GPRS
+
+1**************************************************
+
+Qualifications
+Bachelor’s degree in Business, IT, or similar discipline and/or 4 years of work experience in lieu of degreeMS Data Analytics, Data Engineering, or similar, preferredMinimum 2 years of experience as a Data Engineer, or similar roleProficiency in programming languages such as Python, SQL, and JavaExperience with data processing frameworks like Apache Spark or HadoopKnowledge of database systems (e.g., MySWL, PostgreSWL, MongoDB)Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud)Familiarity with the operationalization of machine learning in a business environmentStrong problem-solving skills and attention to detailExcellent communication and teamwork abilities
+We offer full medical, dental, and vision insurance with day-one coverage, 401k with company matching beginning on day one, Life, Short-Term, and Long-Term Disability at no cost to our employees, paid holidays, paid time off, leadership development training programs and additional benefits to support our strong commitment to the development of each team member.
+GPRS is an Equal Opportunity employer
+#Dice
+Bachelor’s degree in Business, IT, or similar discipline and/or 4 years of work experience in lieu of degree
+MS Data Analytics, Data Engineering, or similar, preferred
+Minimum 2 years of experience as a Data Engineer, or similar role
+Proficiency in programming languages such as Python, SQL, and Java
+Experience with data processing frameworks like Apache Spark or Hadoop
+Knowledge of database systems (e.g., MySWL, PostgreSWL, MongoDB)
+Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud)
+Familiarity with the operationalization of machine learning in a business environment
+Strong problem-solving skills and attention to detail
+Excellent communication and teamwork abilities
+Integrity
+Teamwork
+Mutual Respect
+Growth Mindedness
+Safety
+Support the development of GPRS’ master data management and model for our key operational data.
+Assist in creating and maintaining a comprehensive master data management system that ensures the accuracy, consistency, and reliability of key operational data across the organization. This includes developing data models that support business processes and decision-making.
+Build pipelines for integrating data from various sources and manage the ETL processes necessary to provide qualified data sets at appropriate intervals (including real-time).
+Design, develop, and maintain data pipelines that extract, transform, and load (ETL) data from multiple sources into data warehouses or data leaks. Ensure that data is processed efficiently and made available at the required intervals, including real-time, to support business needs.
+Partner with business unit stakeholders to define and optimize the data processing systems to the appropriate quality measures.
+Collaborate with stakeholders from various business units to understand their data requirements and ensure that data processing systems are designed and optimized to meet these needs. Implement quality measures to ensure data accuracy, consistency, and reliability, and continuously improve data processing workflows.
+Support GPRS’ definition and build-out of a Master Data Management system, including data governance, integration, quality, and system design and architecture
+Maintain appropriate databases, warehouses, lakes, etc., for data integrity and availability with a focus on scalability and optimization
+Build and maintain data pipelines and automated ETL processes for data ingestion and transformation
+Work closely with stakeholders to identify additional data sources that are relevant to support a date-driven organization
+Support the organization with ad hoc data manipulation exercises, especially with M&A activities and data migrations
+
+__________________________________________________
+
+Data Engineer
+StackAdapt
+
+1**************************************************
+
+What you'll be doing:
+Design modular and scalable real time data pipelines to handle huge datasets
+Understand and implement custom ML algorithms in a low latency environment
+Work on microservice architectures that run training, inference, and monitoring on thousands of ML models concurrently
+
+2**************************************************
+
+What you'll bring to the table:
+Have the ability to take an ambiguously defined task, and break it down into actionable steps
+Have deep understanding of algorithm and software design, concurrency, and data structures
+Experience in implementing probabilistic or machine learning algorithms
+Interest in designing scalable distributed systems
+A high GPA from a well-respected Computer Science program
+Enjoy working in a friendly, collaborative environment with others
+Competitive salary + equity
+401K matching
+3 weeks vacation + 3 personal care days + 1 Culture & Belief day + birthdays off
+Access to a comprehensive mental health care platform
+Health benefits from day one of employment
+Work from home reimbursements
+Optional global WeWork membership for those who want a change from their home office
+Robust training and onboarding program
+Coverage and support of personal development initiatives (conferences, courses, etc)
+Access to StackAdapt programmatic courses and certifications to support continuous learning
+Mentorship opportunities with industry leaders
+An awesome parental leave policy
+A friendly, welcoming, and supportive culture
+Our social and team events!
+
+__________________________________________________
+
+Data Engineers
+Further
+
+1**************************************************
+
+What Experience Should You Have
+Proven history of working in a team environment creating data/cloud solutions.
+Demonstrated proficiency in multiple programming languages such as Python, SQL, and noSql.
+Deep experience working in one or more cloud data warehouses (i.e. Snowflake, Redshift, BigQuery, Azure).
+Utilized pipeline and workflow management tools for data processing purposes (i.e. Airflow).
+Working experience designing and architecting relational databases (RDBMS) and/or columnar databases.
+Supported analytical reporting and/or data visualization tools such as Power BI, Tableau, Quicksight, or Looker.
+Support the alignment to scope, deliverables, and adherence to agreed-upon timelines to ensure the team is achieving business impact goals.
+Communicate clearly and effectively with clients in both good and challenging situations.
+Actively participate in business development activities, including client pitches, estimating work and creating project plans.
+Create trusted partnerships with clients in order to consistently extend and expand our business relationships.
+Develop sustainable solutions to share knowledge and experiences within the team.
+Build the expertise of our team through mentoring, training, and sharing best practices.
+Develop an understanding of all solutions.
+Deliver solutions that drive measurable business impact.
+Identify opportunities to bring additional value to our clients.
+
+__________________________________________________
+
+Data Engineer
+Atlantis University
+
+1**************************************************
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering, or related field
+Proven experience as a Data Engineer or similar role
+Strong proficiency in SQL, Python, and data warehousing technologies
+Experience with ETL processes and tools
+Knowledge of data modeling and database design principles
+Excellent problem-solving and analytical skills
+
+2**************************************************
+
+Skills
+Strong communication and collaboration skills
+Ability to work in a fast-paced and dynamic environment
+Attention to detail and accuracy
+Ability to prioritize and manage multiple tasks simultaneously
+Develop and maintain scalable data pipelines
+Collaborate with data scientists and analysts to understand data requirements
+Implement data models and structures for efficient storage and retrieval
+Optimize data flow and collection for improved accessibility and usability
+Ensure data quality and integrity through data validation and testing
+
+__________________________________________________
+
+Data Engineer
+Luxevision Consulting LLC
+
+1**************************************************
+
+Required Work Experience
+2+ years of experience in data engineering or a related field.
+Proven experience developing ETL pipelines and data processing workflows.
+Hands-on experience with PySpark, Pandas, and SQL.
+Experience working with big data technologies such as Apache Spark, Hadoop, or Kafka (preferred).
+Familiarity with cloud data solutions (AWS, GCP, or Azure).
+
+2**************************************************
+
+Required Skills
+Programming: Strong proficiency in Python (PySpark, Pandas) or Scala.
+Data Modeling & Storage: Experience with relational databases (PostgreSQL, MySQL, SQL Server) and NoSQL databases (MongoDB, Cassandra).
+Big Data & Distributed Computing: Knowledge of Apache Spark, Hadoop, or Kafka.
+ETL & Data Integration: Ability to develop efficient ETL processes and manage data pipelines.
+Cloud Computing: Experience with AWS (S3, Redshift, Glue), GCP (BigQuery), or Azure (Data Factory, Synapse).
+Data Warehousing: Understanding of data warehousing concepts and best practices.
+Problem-Solving: Strong analytical skills to troubleshoot and optimize data pipelines.
+Communication: Must be proficient in spoken English to collaborate with US-based teams.
+
+3**************************************************
+
+Education Requirements
+Bachelor’s degree in Computer Science, Data Engineering, Information Technology, or a related field (preferred).Equivalent work experience in data engineering will also be considered.
+Fill out the application form here: https://forms.gle/nefgwYRFYE7mffdA7
+Alternatively, feel free to message us directly here on the page or email your resume to hiring@ luxevisionconsulting com
+📑Subject: Position - First and Last Name
+Only shortlisted candidates will be contacted. We look forward to hearing from you!
+Bachelor’s degree in Computer Science, Data Engineering, Information Technology, or a related field (preferred).
+Equivalent work experience in data engineering will also be considered.
+Data Pipeline Development: Design, build, and maintain scalable and efficient data pipelines to process and transform large datasets.
+ETL & Data Integration: Develop and optimize ETL (Extract, Transform, Load) workflows for structured and unstructured data sources.
+Big Data Processing: Work with PySpark and Pandas to handle large-scale data processing tasks.
+Database Management: Design, implement, and manage relational (SQL) and non-relational databases for data storage and retrieval.
+Cloud Technologies: Leverage cloud platforms such as AWS, GCP, or Azure to deploy and manage data infrastructure.
+Collaboration: Work closely with data scientists, analysts, and software engineers to support analytical and machine learning projects.
+Data Quality & Performance Optimization: Ensure data accuracy, consistency, and security while optimizing performance.
+Monitoring & Troubleshooting: Identify and resolve data pipeline performance bottlenecks and failures.
+Work within a company with a solid track record of success
+Attractive salary & benefits
+Excellent career development opportunities
+
+__________________________________________________
+
+Data Engineer (Junior Level)
+SynergisticIT
+
+1**************************************************
+
+Since 2010 Synergisticit has helped Jobseekers get employed in the tech Job market by providing candidates the requisite skills, experience and technical competence to outperform at interviews and at clients. Here at SynergisticIT We just don't focus on getting you a tech Job we make careers.
+
+2**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+All Positions are open for all visas and US citizens
+We at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped 1000's of candidates get jobs at technology clients like
+
+3**************************************************
+
+Required Skills
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Project work on the technologies needed
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Knowledge of Statistics, Gen AI, LLM, Python, Computer Vision, data visualization tools
+Excellent written and verbal communication skills
+
+4**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Databricks, Tensorflow
+
+5**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Software Positions
+Project work on the skills
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+6**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Junior Data Engineer
+SynergisticIT
+
+1**************************************************
+
+Acquiring the right technology skillsets which are being demanded by clients and getting yourself in front of clients is the way to get to get Interviews and eventually a Job Offer. Survival of the Fittest is the only way to get a tech Job in this job market.
+
+2**************************************************
+
+In this Layoffs fueled market also SynergisticIT's candidates are able to achieve multiple job offers and $100k &plus; salaries once they acquire the required skills.
+
+3**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+4**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+5**************************************************
+
+Required Skills
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+
+6**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Databricks, Tensorflow
+
+7**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Analytics and Reporting Engineer
+Five9
+
+1**************************************************
+
+Qualifications:
+Demonstrated ability to identify and understand issues and resolve customer inquiries quickly and effectively
+Demonstrated intermediate skills with the standard features of various word processing and spreadsheet software (Microsoft Word and Excel, PowerPoint, Outlook, Internet, and other proprietary software)
+Superior interpersonal and oral/written communication skills with the ability to relate well and cooperate with others to effectively coordinate activities and accomplish goals
+Good working knowledge of both historical and real-time report building
+Hardworking with a positive attitude
+Professional demeanor
+Desire to grow and succeed in a fast-paced growing organization
+Strong attention to detail
+
+2**************************************************
+
+Education/Experience:
+Bachelor’s Degree or comparable work-related experienceIntermediate understanding and practicing knowledge of Microsoft SQL Server Management Studio and T-SQLCisco ICM/IPCC/UCCE or other relevant contact center/WFM experience a plusStrong understanding of contact center reporting and operations preferred
+Work Location: This role is fully remote for candidates who reside outside the 50 mile radius of our San Ramon office. For candidates who reside within 50 miles of our San Ramon location, this role is Hybrid and would require 3 days a week (M, W, TH) in our San Ramon office.
+As part of our continued commitment to diversity, equity, and inclusion, Five9 supports pay transparency during the entire recruitment process. Actual compensation packages are based on several factors that are unique to each candidate including, but not limited to: skill set, depth of experience, certifications, and specific work location. The range displayed reflects the minimum and maximum target for new hire salaries for the job across the United States. Your recruiter can share more about the specific compensation package during your hiring process.
+Additionally, the total compensation package for this position may also include an annual performance bonus, stock, and/or other applicable incentive compensation plans.
+Our total reward package also includes:
+Health, dental, and vision coverage, beginning on the first day of employment. Five9 covers 100% of the employee portion of the health, dental and vision coverage and shares a high portion of the dependent cost. We also offer Short & Long-Term Disability, Basic Life Insurance, and a 401k saving plan with employer matchingAccess to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching and self-guided mindfulness exercises for all covered employees and their covered dependentsGenerous employee stock purchase planPaid Time Off, Company paid holidays, paid volunteer hours and 12 weeks paid parental leave
+All compensation and benefits are subject to the requirements and restrictions set forth in the applicable plan documents and any written agreements between the parties.
+The US base salary range for this role is below.
+$90,900—$127,600 USD
+Five9 embraces diversity and is committed to building a team that represents a variety of backgrounds, perspectives, and skills.  The more inclusive we are, the better we are.  Five9 is an equal opportunity employer.
+View our privacy policy, including our privacy notice to California residents here: https://www.five9.com/pt-pt/legal.
+Note: Five9 will never request that an applicant send money as a prerequisite for commencing employment with Five9.
+Bachelor’s Degree or comparable work-related experience
+Intermediate understanding and practicing knowledge of Microsoft SQL Server Management Studio and T-SQL
+Cisco ICM/IPCC/UCCE or other relevant contact center/WFM experience a plus
+Strong understanding of contact center reporting and operations preferred
+Health, dental, and vision coverage, beginning on the first day of employment. Five9 covers 100% of the employee portion of the health, dental and vision coverage and shares a high portion of the dependent cost. We also offer Short & Long-Term Disability, Basic Life Insurance, and a 401k saving plan with employer matching
+Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching and self-guided mindfulness exercises for all covered employees and their covered dependents
+Generous employee stock purchase plan
+Paid Time Off, Company paid holidays, paid volunteer hours and 12 weeks paid parental leave
+Engage with customers, to develop customer requirements for the purposes of delivering custom reports, services, and/or functions based on the Five9 Analytics and Reporting product suite; this effort may include driving customer requirements through detailed feedback and suggestions
+Ensure projects are delivered on time
+Learn Customer application and solution design and documentation
+Help to ensure the overall technical quality of the solution
+Support Professional Services Team from a knowledge standpoint
+Ability to collaborate closely with team members and other functional organizations, maintaining collaborative dialogs as well as proactively providing status updates for major initiatives
+Ability to work both as part of a team and autonomously
+Ability to provide support for solutions on an as needed basis
+Ability to learn and master new Software packages, Software versions as needed
+
+__________________________________________________
+
+Data Engineer
+ACS Consultancy Services, Inc
+
+1**************************************************
+
+Qualifications
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related field (Master’s degree preferred).Experience in data engineering, data management, or related roles.Experience working with large-scale data processing systems and cloud technologies (AWS, Google Cloud, Azure).Proficient in programming languages like Python, Java, Scala, or SQL.Strong experience with data warehousing and ETL frameworks (Apache Spark, Hadoop, Airflow, Talend, etc.).Hands-on experience with relational databases (e.g., PostgreSQL, MySQL) and NoSQL databases (e.g., MongoDB, Cassandra).Experience with cloud platforms and big data services (AWS S3, Redshift, GCP BigQuery, Azure Data Lake).Experience with data pipeline orchestration and automation tools (Apache Kafka, Airflow, Prefect).Experience in data modeling, schema design, and data governance practices.Strong analytical and problem-solving abilities.Excellent communication skills, both verbal and written.Ability to work independently and in a team-oriented environment.Detail-oriented with a focus on quality and precision.Ability to manage multiple tasks and meet deadlines.Experience with machine learning pipelines and AI/ML model deployment.Knowledge of containerization (Docker, Kubernetes).Experience with data visualization tools like Tableau, Power BI, or Looker.Knowledge of version control systems like Git.Federal Experience is a plus.Required Security clearance.
+If you meet these qualifications, please submit your application via link provided in Linkedin.
+Kindly do not call the general line to submit your application
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related field (Master’s degree preferred).
+Experience in data engineering, data management, or related roles.
+Experience working with large-scale data processing systems and cloud technologies (AWS, Google Cloud, Azure).
+Proficient in programming languages like Python, Java, Scala, or SQL.
+Strong experience with data warehousing and ETL frameworks (Apache Spark, Hadoop, Airflow, Talend, etc.).
+Hands-on experience with relational databases (e.g., PostgreSQL, MySQL) and NoSQL databases (e.g., MongoDB, Cassandra).
+Experience with cloud platforms and big data services (AWS S3, Redshift, GCP BigQuery, Azure Data Lake).
+Experience with data pipeline orchestration and automation tools (Apache Kafka, Airflow, Prefect).
+Experience in data modeling, schema design, and data governance practices.
+Strong analytical and problem-solving abilities.
+Excellent communication skills, both verbal and written.
+Ability to work independently and in a team-oriented environment.
+Detail-oriented with a focus on quality and precision.
+Ability to manage multiple tasks and meet deadlines.
+Experience with machine learning pipelines and AI/ML model deployment.
+Knowledge of containerization (Docker, Kubernetes).
+Experience with data visualization tools like Tableau, Power BI, or Looker.
+Knowledge of version control systems like Git.
+Federal Experience is a plus.
+Required Security clearance.
+Develop and maintain robust, scalable, and efficient data pipelines that integrate data from multiple sources.
+Ensure timely, accurate, and high-quality data delivery across various systems.
+Optimize data workflows for better performance, cost-efficiency, and reliability.
+Extract, transform, and load (ETL) data from a variety of sources, including internal and third-party systems.
+Work closely with stakeholders to understand business needs and transform data into actionable insights.
+Develop and maintain a variety of data integration processes using modern ETL tools and techniques.
+Maintain and optimize data storage systems such as SQL databases, NoSQL databases, and data lakes.
+Ensure high availability, security, and performance of data systems.
+Monitor and troubleshoot database performance and issues.
+Implement data quality standards and processes to ensure the accuracy and consistency of data.
+Support data governance initiatives by ensuring compliance with data security, privacy, and regulatory requirements.
+Continuously improve data management practices, ensuring the integrity and reliability of data.
+Collaborate with data scientists, analysts, and other engineers to understand data needs and ensure data infrastructure supports their work.
+Assist in the creation of dashboards, reports, and visualizations to support business decision-making.
+Provide technical guidance and support to team members and other departments as needed.
+Automate repetitive tasks related to data processing, extraction, and reporting.
+Identify opportunities to improve processes and reduce manual interventions.
+Document data pipelines, workflows, and processes clearly and comprehensively.
+Provide reports on the status, progress, and performance of data projects.
+
+__________________________________________________
+
+Junior Data Platform Engineer
+Revelio Labs
+
+1**************************************************
+
+Required Skills & Qualifications:
+1. 2+ years of professional experience in a software development role
+2. Experience using GitHub for collaboration and version control
+3. Familiarity with containerization concepts and tools, particularly Docker
+4. Programming experience with Python and SQL
+5. Basic understanding of cloud platforms, with AWS experience preferred
+6. Strong communication, collaboration, and problem-solving abilities
+Preferred Skills & Qualifications:
+
+2**************************************************
+
+1. Understanding of Kubernetes and container orchestration
+2. Familiarity with CI/CD concepts and tools
+3. Scripting skills using bash to create powerful automation tools
+4. Understanding of monitoring tools and practices to ensure system health and performance
+5. Proficiency in tools like Terraform for declarative infrastructure management
+Location:
+
+__________________________________________________
+
+Data Engineer Python (4144)
+SMX
+
+1**************************************************
+
+Essential Duties & Responsibilities:
+Design, develop, and maintain ETL processes using Python and Apache Airflow.
+Collaborate with data analysts and other stakeholders to understand and meet their data requirements.
+Develop and implement data validation processes to ensure high data quality.
+Troubleshoot and resolve issues related to data pipelines.
+Optimize data extraction, transformation, and loading (ETL) processes to improve efficiency and performance.
+Document and maintain the design and details of data processes and schemas.
+Stay updated with the latest industry trends and technologies to ensure data practices remain current.
+
+2**************************************************
+
+Required Skills & Experience:
+Proficiency in Python:
+Strong understanding of Python programming language.
+Experience with Python libraries and frameworks like Pandas, NumPy, and Django.
+Expertise in Apache Airflow:
+Experience in designing, building, and maintaining data pipelines using Apache Airflow.
+Knowledge of Airflow's architecture, including DAGs and Operators.
+ETL Processes:
+Proficiency in data extraction, transformation, and loading processes.
+Experience with data extraction from various sources, data transformation (cleaning, validating, aggregating, joining, etc.), and loading data into databases or data warehouses.
+Database Knowledge:
+Strong understanding of SQL and NoSQL databases.
+Proficiency in writing complex queries and applying database optimization techniques.
+Data Warehousing:
+Experience with data warehousing solutions like Amazon Redshift, Google BigQuery, or Microsoft Azure SQL Data Warehouse.
+Soft Skills:
+Strong communication and collaboration skills.
+Excellent problem-solving skills.
+US Citizenship is required to obtain a federal clearance.
+
+3**************************************************
+
+Desired Skills & Experience
+Knowledge of data modeling and data warehousing.
+
+__________________________________________________
+
+Junior/Entry Level Data Engineer
+SynergisticIT
+
+1**************************************************
+
+Acquiring the right technology skillsets which are being demanded by clients and getting yourself in front of clients is the way to get to get Interviews and eventually a Job Offer. Survival of the Fittest is the only way to get a tech Job in this job market.
+
+2**************************************************
+
+In this Layoffs fueled market also SynergisticIT's candidates are able to achieve multiple job offers and $100k &plus; salaries once they acquire the required skills.
+
+3**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+4**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+5**************************************************
+
+Required Skills
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+
+6**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Databricks, Tensorflow
+
+7**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Entry Level Data Engineer - Remote
+SynergisticIT
+
+1**************************************************
+
+Required Skills
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Project work on the technologies needed
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Knowledge of Statistics, Gen AI, LLM, Python, Computer Vision, data visualization tools
+Excellent written and verbal communication skills
+
+2**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Databricks, Tensorflow
+
+3**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Software Positions
+Project work on the skills
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+4**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Data & Analytics Engineer
+Rinsed
+
+1**************************************************
+
+Clear And Direct Communication Skills About Complex Technical Topics
+A track record of working autonomously, with strong organizational and time management skills
+Comfort with a high degree autonomy and ownership, independently making good decisions for our customers and the business
+Exposure to dbt or similar data transformation tools preferred
+2 - 3 years experience in a data analytics, data science, or data engineering role preferred
+
+2**************************************************
+
+Python Experience a Plus, But Not Required
+
+__________________________________________________
+
+ENTRY LEVEL DATA ENGINEER (REMOTE)
+SynergisticIT
+
+1**************************************************
+
+Who Should Apply
+: Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates or anyone looking to make their career in IT Industry
+We also assist in filing for STEM extension and H1b and Green card filing.
+Candidates who are serious about their future in the IT Industry and have set big goals for themselves.
+
+2**************************************************
+
+Skill Enhancement Programs
+if the candidates are missing skills or experience which our clients need with great outcomes
+Candidates can benefit from skill enhancement if they fall into the below categories. If they are qualified with enough skills then no need for skill enhancement
+
+3**************************************************
+
+Candidates Who Lack Experience
+
+4**************************************************
+
+REQUIRED SKILLS For Java/Software Programmers
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices and REST API's experience
+Excellent written and verbal communication skills
+
+5**************************************************
+
+Required Skills
+Knowledge of Statistics, Python, data visualization tools
+
+6**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, Time series analysis
+Technical skills are required by clients for selection even if its Junior or entry level position each additional Technical skill helps a candidate's resume to be picked by clients over other job seekers.
+Clients hire candidates with the right technical skills which they need and reject candidates who lack the required technical skills.
+
+__________________________________________________
+
+Remote Software Engineer - Python - Container Images
+Get It - Professional Services
+
+1**************************************************
+
+Required Skills
+Strong expertise in software development, particularly in Python.
+Proven experience working with CI/CD systems such as Jenkins or GitHub Actions.
+Familiarity with container management tools like Docker or Kubernetes.
+Significant background in building and handling container images and operations.
+Competence in Linux systems administration and package management.
+Excellent communication skills, both written and verbal, with the ability to articulate complex concepts clearly.
+A proactive mindset emphasizing knowledge sharing and continuous learning.
+
+2**************************************************
+
+Qualifications
+A Bachelor's degree or equivalent in Computer Science, STEM, or a related discipline.
+Experience level ranging from graduate to mid-senior in software engineering.
+Design and implement scalable, high-performance container images for Ubuntu environments.
+Develop and optimize automated Continuous Integration and Continuous Delivery (CI/CD) processes for efficient deployment and testing of container images.
+Create tools and frameworks that ensure security compliance and compatibility with cloud-native applications.
+Collaborate with diverse teams to introduce new features in container-building tools using Python.
+Participate in code reviews and architectural discussions to uphold engineering excellence.
+Provide technical insights to assist in strategic decision-making for the team.
+Actively engage with the open-source community, establishing yourself as a subject-matter expert.
+Contribute to documentation and build the knowledge base of the team.
+Operate within a collaborative, agile environment and mentor junior engineers.
+Enjoy the flexibility of remote work with some international travel (up to 15%) for key events.
+A competitive salary commensurate with experience and a performance-driven annual bonus.
+A personal learning and development budget of USD 2,000 annually.
+Flexible working conditions with bi-annual in-person team sprints.
+Generous leave policies, including annual holiday leave and family leave.
+Access to an Employee Assistance Program and company-sponsored travel opportunities.
+
+__________________________________________________
+
+Data Engineer
+Buyers Edge Platform
+Support and improve our existing data infrastructure
+Create and modify ETL processes within the AWS Data Ecosystem
+Collaborate with the DevOps team to create redeployable resources
+Assist developers and analysts with data performance improvements
+Responding in a timely manner to service issues and requests
+Testing and proposing new technology to solve business problems
+Occasional after-hours work
+Expert with AWS data platforms and integrations, including Data Lakes, pyspark, Glue and Athens
+Understanding of at least one scripting language such as Python, Golang, NodeJS or TypeScript
+Basic understanding of an orchestrator tool such as Terraform or Cloud Formation.
+Git version control
+Experience with monitoring tools, APM, Logging and Infrastructure.
+Solid understanding of RDMS schema and performance. MySQL, Amazon Aurora, and Postgres. MSSQL is a plus
+Familiar with data warehousing technologies like Redshift and Snowflake
+High level understanding of data storage systems including NoSQL, Time Series, Document and RDMS.
+High level understanding of messaging queue and data streaming technology
+Thorough understanding of Apache Hudi or Iceberg
+Both written and oral effective communication skills
+
+__________________________________________________
+
+Data Engineer
+Digital Janet
+
+1**************************************************
+
+MUST HAVES
+(60 tech ability/40 soft skills)
+Snowflake shop
+Snowflake Certified is a big plus (SnowPro)
+ETL processes
+Strong understanding of healthcare Data Standards is a plus (HL7, FHIR)
+Strong understanding of EMR / EHR system integration (Athena, Mirth, etc)
+Data migration
+modern data engineering practices, etc.
+opentable formats like datalake and iceberg
+Exposed to databricks pipeline
+Data mesh exposure
+Must see the Data frameworks they have worked with in the resume
+Exposure to delta lake, data mesh approaches, iceberg tables and exposure to databricks pipelines.
+
+__________________________________________________
+
+Analytics Engineer
+Fetch
+Model and analyze data utilizing SQL best practices for OLAP / OLTP query and database performance
+Leverage Data Build Tool (DBT), Snowflake, Airflow, AWS infrastructure, CI/CD, testing, and engineering best practices to accomplish your work
+Generate innovative approaches to datasets with millions of daily active users and terabytes of data
+Translate business requirements for near-real-time actionable insights into data models and artifacts
+Communicate findings clearly both verbally and in writing to a broad range of stakeholders
+Administrative duties for Snowflake, Tableau, and DBT/Airflow infrastructure
+Test, monitor, and report on data health and data quality
+Lead the charge on data documentation and data discovery initiatives
+Are proficient in SQL and understand the difference between SQL that works and SQL that performs
+Have worked with data modeling and orchestration tools
+Have experience with relational (SQL), non-relational (NoSQL), and/or object data stores (e.g., Snowflake, MongoDB, S3, HDFS, Postgres, Redis, DynamoDB)
+Have a solid understanding of ETL vs. ELT processes, data warehouses, and business intelligence tools
+Have prior experience clearly communicating about data with internal and external customers
+Are highly motivated to work autonomously, with the ability to manage multiple work streams
+Interest in building and experimenting with different tools and tech, and sharing your learnings with the broader organization
+Have developed and maintained DBT or Airflow in production environments
+Have experience programmatically deploying cloud resources on AWS, Azure, or GCP
+Have successfully implemented data quality, data governance, or disaster recovery initiatives
+Are proficient in at least one imperative programming language (i.e., Python)
+Equity: We also offer employees equity in Fetch, so that everyone can benefit from Fetch’s growth.
+401k Match: Dollar-for-dollar match up to 4%.
+Benefits for humans and pets: We offer comprehensive medical, dental and vision plans for everyone including your pets.
+Continuing Education: Fetch provides ten thousand per year in education reimbursement.
+Employee Resource Groups: Take part in employee-led groups that are centered around fostering a diverse and inclusive workplace through events, dialogue and advocacy. The ERGs participate in our Inclusion Council with members of executive leadership.x
+Paid Time Off: On top of our flexible PTO, Fetch observes 9 paid holidays, including Juneteenth and Indigenous People’s Day, as well as our year-end week-long break.
+Robust Leave Policies: 20 weeks of paid parental leave for primary caregivers, 14 weeks for secondary caregivers, and a flexible return to work schedule.
+Calvin Care Cash: Employees who are welcoming new family members will also receive a one time $2,000 incentive to assist employees with covering the cost of childcare, clothing, diapers and much more!
+Flexible Work Environment: Collaborate with your team in one of our stunning offices in Madison, Birmingham, or Chicago. Or you can work fully remotely from anywhere in the US. We’ll ensure you are equally equipped with the hardware and software you need to get your job done in the comfort of your home.
+
+__________________________________________________
+
+Data Engineer - Enterprise Data
+OncoHealth
+Participates in new data engineering solutions within the enterprise data and analytics team to provide data warehouse development and maintenance utilizing best practices, CI/CD, and test-driven development
+Support existing reporting and analytics data environments and data products
+Bachelor’s degree or relevant experience required
+2-4 years of data engineering experience or relevant educational attainment required
+Demonstratable knowledge of creating and managing technical data products in support of enterprise initiatives. Demonstrated ability to analyze complex business needs and recommend practical business solutions is required.
+Must be familiar with healthcare data including claims and eligibility data. Knowledge of medical ontologies.
+Ability to understand data de-identification and skilled with de-identified data linking.
+The ideal candidate will display demonstratable experience with Databricks, SQL, Python, and data pipelines (Airflow/Prefect, ADF, Workflows), as well as a working knowledge of event driven architecture and APIs. Python, SQL, NoSql, Pyspark, Spark SQL, Databricks, Azure cloud-native tools, Synapse, Orchestration (Prefect/Airflow/Dagster).
+
+__________________________________________________
+
+Analytics Engineer II
+Cohere Health
+
+1**************************************************
+
+Your Background & Requirements
+Bachelor’s or Master’s degree in STEM, computer science, software engineering, economics, finance or public health related field
+1-3 years data experience at company where health outcomes were critical to the mission, preferably a healthcare analytics company or population health organization
+Passionate about improving the U.S. healthcare system and helping ensure every patient receives the best care possible.
+Self-starter, able to work independently, able to succeed in a fast-paced, high intensity start-up environment
+Hands-on experience with common software development practices such as version control, unit testing, and CI/CD
+Strong interest and understanding of EMR, Claims and SDOH data
+Expertise in ETL tool and languages like Spark, PySpark, Python, DBT and SQL
+Knowledge in data modeling and storage design using different database technologies
+Excellent interpersonal skills to work with stakeholders to enable data governance and quality standards
+Knowledge of STARs, HEDIS and other clinical / financial metrics in healthcare, preferred
+Quickly understand Cohere’s products, services and clinical programs and how Cohere’s x-functional collaboration and workflow support healthcare providers’ workflow and patients’ care journey
+Build required ETL jobs for optimal extraction, transformation and loading of data from various data sources using AWS and SQL technologies
+Ingest, standardize, transform, validate and load various data from external clients, public sources and Cohere internal application data
+Work with stakeholders including analytics, data science, reporting and product teams and assist them with data-related technical issues
+Ensure data quality, for example:
+Monitor daily refresh data jobs from payer to our Cohere platform and from Cohere platform to our data platform
+Perform and review quality checks on incoming, outgoing and aggregated data in order to identify data anomalies.
+Map and specify target data requirements and associated data transformations and validations
+
+__________________________________________________
+
+Entry Level Data Engineer (Remote)
+SynergisticIT
+
+1**************************************************
+
+Candidates who want to make a tech career they need to differentiate themselves by ensuring they have exceptional skills and technologies to be noticed by clients.
+Since 2010 Synergisticit has helped Jobseekers differentiate themselves by providing candidates the requisite skills and experience to outperform at interviews and clients. Here at SynergisticIT We just don't focus on getting you a Job we make careers.
+All Positions are open for all visas and US citizens
+
+2**************************************************
+
+We are matchmakers we provide clients with candidates who can perform from day 1 of starting work. In this challenging economy every client wants to save $$$'s and they want the best value for their money. Jobseekers need to self-evaluate if they have the requisite skills to meet client requirements and needs.
+Clients now post covid can also hire remote workers which increases even more competition for jobseekers.
+We at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped 1000's of candidates get jobs at technology clients like
+
+3**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Software Programmer
+Bachelor's degree or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Project work on the skills
+Knowledge of Core Java, JavaScript, C&plus;&plus; or software programming
+Spring boot, Microservices, Docker, Jenkins and REST API's experience
+Excellent written and verbal communication skills
+
+4**************************************************
+
+Required Skills
+Project work on the technologies needed
+Knowledge of Statistics, SAS, Python, Computer Vision, data visualization tools
+
+5**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, TensorFlow
+
+6**************************************************
+
+If you get emails from our skill enhancement team please ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team.
+
+__________________________________________________
+
+Entry Level Data Engineer
+SynergisticIT
+
+1**************************************************
+
+Acquiring the right technology skillsets which are being demanded by clients and getting yourself in front of clients is the way to get to get Interviews and eventually a Job Offer. Survival of the Fittest is the only way to get a tech Job in this job market.
+
+2**************************************************
+
+In this Layoffs fueled market also SynergisticIT's candidates are able to achieve multiple job offers and $100k &plus; salaries once they acquire the required skills.
+
+3**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Devops Positions
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+4**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+5**************************************************
+
+Required Skills
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+
+6**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Databricks, Tensorflow
+
+7**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Data Engineer
+Heritage Consultants, LLC
+
+1**************************************************
+
+Qualifications
+Data Engineering and Data Modeling skills
+Experience in Extract Transform Load (ETL) processes
+Data Warehousing and Data Analytics skills
+Strong problem-solving and analytical skills
+Proficiency in relevant programming languages and tools
+Ability to work independently and collaboratively in a remote setting
+Experience in the cultural resources management or consulting industry is a plus
+Bachelor's degree in Computer Science, Information Systems, or related field
+
+__________________________________________________
+
+Data Engineer - Entry/Remote
+SynergisticIT
+
+1**************************************************
+
+SYNERGISTICIT is aware that the Job Market is Challenging due to almost 600,000 Tech Layoffs within the past 2 years due to which The Job market is flooded with thousands of laid off Techies who are competing with existing Jobseekers. For entry level Job seekers to get client interviews and jobs they need to differentiate themselves by ensuring they have exceptional skills and technologies to be noticed by clients.
+
+2**************************************************
+
+Since 2010 we have helped Jobseekers differentiate themselves by providing the clients with candidates who have the requisite skills and experience to outperform at interviews and clients. Here at SynergisticIT We just don't focus on getting you a Job we make careers.
+All Positions are open for all visas and US citizens
+We are matchmakers we provide clients with candidates who can perform from day 1 of starting work. In this economy no client wants or has the resources to take an entry level person and spend resources on upgrading their skills and on top of that pay the jobseeker. That's the specific reason there are so many techies both experience and freshers who are unemployed.
+Clients have now the option to hire remote workers from anywhere so for a Jobseeker its important to introspect and see how they can become better and have the skills and technologies to meet client requirements.
+We at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like
+
+3**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+If you have relevant skills and industry experience, please apply
+For preparing for interviews please visit
+
+4**************************************************
+
+REQUIRED SKILLS For Java /Software Programmers
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Project work on the skills
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices, Docker, Jenkins and REST API's experience
+Excellent written and verbal communication skills
+
+5**************************************************
+
+Required Skills
+Project work on the technologies needed
+Knowledge of Statistics, SAS, Python, Computer Vision, data visualization tools
+
+6**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Time series analysis
+Please understand skills and relevant experience on real world projects are required by clients for selection even if its Junior or entry level position the additional skills and Project work with hands on experience building projects at client site are the only way a candidate can be picked by clients.
+No third party candidates or c2c candidates
+please only apply to the posting
+If you get emails from our skill enhancement team please ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team.
+
+__________________________________________________
+
+Data Engineer - Remote
+SynergisticIT
+
+1**************************************************
+
+SYNERGISTICIT wants every candidate to know that the Job Market is Challenging and to stand out, you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need
+
+2**************************************************
+
+Who Should Apply
+: Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates looking to make their careers in IT Industry
+Candidates who are serious about their future in the IT Industry and have set big goals for themselves.
+Candidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. We also offer Skill enhancement programs if the candidates are missing skills or experience which our clients need with great outcomes
+Candidates can benefit from skill enhancement if they fall into the below categories. If they are qualified with enough skills then no need for skill enhancement
+
+3**************************************************
+
+Candidates Who Lack Experience
+Have had a break in careers
+Lack Technical Competency
+Different visa candidates who want to get employed and settle down in the USA
+
+4**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+If not a match candidates can opt for Skill enhancement.
+
+5**************************************************
+
+REQUIRED SKILLS For Java/Software Programmers
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices and REST API's experience
+Excellent written and verbal communication skills
+
+6**************************************************
+
+Required Skills
+Knowledge of Statistics, Python, data visualization tools
+
+7**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, Time series analysis
+Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients.
+
+__________________________________________________
+
+Junior Level Data Analyst/Engineer
+SynergisticIT
+
+1**************************************************
+
+Technical Skills or Experience? | Which one is important to get a Job? | SynergisticIT
+
+2**************************************************
+
+Who Should Apply?
+We're looking for recent grads in Mathematics, Statistics , Computer Science or Engineering or candidates with gaps in their career or people wanting to switch careers into tech.
+
+3**************************************************
+
+Preferred SKILLS For Java /Full Stack/Devops Positions
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+
+4**************************************************
+
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+5**************************************************
+
+Preferred SKILLS
+Associate or Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics or having good logical aptitude
+Knowledge of Statistics, Gen AI, LLM, Sagemaker, Python, Computer Vision, data visualization tools
+Candidates lacking technical skills can research our Job Placement Programs which can assist in landing a Job
+
+6**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+Customized inputs to achieve the desired output : designed with industry needs in mind, ensuring you're equipped with the most sought-after skills.
+Exclusive Opportunities: Our extensive network allows you to connect with leading tech firms.
+Outstanding Outcomes: Many of our candidates land multiple job offers, often with starting salaries of $100k or more!
+
+__________________________________________________
+
+Data Engineer
+ADPMN Inc
+
+__________________________________________________
+
+Junior Data Analyst/Engineer
+SynergisticIT
+
+1**************************************************
+
+Required Skills
+
+2**************************************************
+
+REQUIRED SKILLS For Java /Full stack/Software Programmer
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Project work on the skills
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices, Docker, Jenkins and REST API's experience
+Excellent written and verbal communication skills
+
+3**************************************************
+
+Project work on the technologies needed
+Knowledge of Statistics, SAS, Python, Computer Vision, data visualization tools
+
+4**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, SAS, Tensorflow
+
+5**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+SQL Developer II (Solvas)
+Dexian
+
+1**************************************************
+
+Qualifications:
+Minimum 5 years of overall SQL experience with the ability to develop, modify, optimize, and troubleshoot complex queries.
+Advanced knowledge of T-SQL/Stored Procedure/View/Function programming and design.
+Minimum 5 years of experience developing with ETL tools (SSIS preferred).
+Experience with PowerShell or other scripting languages.
+Experience with Solvas Portfolio or CDO Suite preferred.
+Bachelor's degree in Computer Science, MIS, Engineering, Accounting, Finance, or related field.
+Skills:
+
+2**************************************************
+
+Enjoys working with numbers and data in various formats.
+Pays attention to detail and takes ownership and pride in delivering quality work outputs.
+Adapts quickly in fast-paced environments, possessing excellent analytical and problem-solving skills.
+Comfortable communicating effectively (written and verbal) as well as working with a team.
+Takes initiative and ownership of job responsibilities and performs duties accurately and timely.
+Self-motivated, self-starter, and challenge-seeker.
+Dexian is a leading provider of staffing, IT, and workforce solutions with over 12,000 employees and 70 locations worldwide. As one of the largest IT staffing companies and the 2nd largest minority-owned staffing company in the U.S., Dexian was formed in 2023 through the merger of DISYS and Signature Consultants. Combining the best elements of its core companies, Dexian's platform connects talent, technology, and organizations to produce game-changing results that help everyone achieve their ambitions and goals.
+Dexian's brands include Dexian DISYS, Dexian Signature Consultants, Dexian Government Solutions, Dexian Talent Development and Dexian IT Solutions. Visit https://dexian.com/ to learn more.
+Dexian is an Equal Opportunity Employer that recruits and hires qualified candidates without regard to race, religion, sex, sexual orientation, gender identity, age, national origin, ancestry, citizenship, disability, or veteran status.
+Work collaboratively with developers, business analysts, and external teams to review business requirements and transform them into database objects.
+Design, develop, document, test and optimize SQL database objects following coding standards.
+Develop new and enhance existing data extracts from Solvas Portfolio.
+Develop new and enhance existing SSIS packages to load and normalize data from external sources.
+Use Microsoft PowerShell to create scripts to orchestrate data load jobs: move, copy, and archive files; manipulating data files; convert from one format to another; initiating SSIS packages.
+Create, maintain, and publish data models, data dictionaries and ER diagrams.
+Contribute to and maintain Knowledge Base and SQL coding standards.
+Schedule, monitor and troubleshoot daily jobs and reports using job administration tools.
+
+__________________________________________________
+
+Junior Data Analyst/Engineer - Remote
+SynergisticIT
+
+1**************************************************
+
+Required Skills
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Project work on the technologies needed
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Knowledge of Statistics, Gen AI, LLM, Python, Computer Vision, data visualization tools
+Excellent written and verbal communication skills
+
+2**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Databricks, Tensorflow
+
+3**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Software Positions
+Project work on the skills
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+4**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Junior Data Analyst/Engineer (Remote)
+SynergisticIT
+
+1**************************************************
+
+Required Skills
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Project work on the technologies needed
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Knowledge of Statistics, Gen AI, LLM, Python, Computer Vision, data visualization tools
+Excellent written and verbal communication skills
+
+2**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Databricks, Tensorflow
+
+3**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Software Positions
+Project work on the skills
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices, Docker, Jenkins, Github, Kubernates and REST API's experience
+
+4**************************************************
+
+If you get emails from our Job Placement team and are not interested please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+
+__________________________________________________
+
+Data Engineer (Remote)
+SynergisticIT
+
+1**************************************************
+
+REQUIRED SKILLS For Java /Full Stack/Software Programmer
+Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT
+Highly motivated, self-learner, and technically inquisitive
+Experience in programming language Java and understanding of the software development life cycle
+Project work on the skills
+Knowledge of Core Java , javascript , C&plus;&plus; or software programming
+Spring boot, Microservices, Docker, Jenkins and REST API's experience
+Excellent written and verbal communication skills
+For data Science/Machine learning Positions
+
+2**************************************************
+
+Required Skills
+Project work on the technologies needed
+Knowledge of Statistics, SAS, Python, Computer Vision, data visualization tools
+Preferred skills: NLP, Text mining, Tableau, PowerBI, SAS, Tensorflow
+If you get emails from our skill enhancement team please email them or ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team who only connect with candidates who are matching client requirements.
+No phone calls please. Shortlisted candidates would be reached out. No third party or agency candidates or c2c candidates
+At SynergisticIT, we're all about making connections. Whatever IT goals you have, our software programmers can help achieve those. Our Software development teams can take up turnkey projects and execute them in an effective and efficient manner. If you are looking to source talent our recruiters will find the ideal IT talent for your company. What's the secret to our success? Well, it all starts with taking quality time to listen to each client's specific needs. After we have a thorough grasp of your IT goals, we can better customize our Developments as per your specific needs. We can also tailor make recruiting programs to exceed your expectations. Since our founding in 2010, SynergisticIT's strategies have earned the company an enviable position in the software development, IT staffing and IT skill enhancement fields. SynergisticIT continues to work with hundreds of satisfied American clients with our software programmers working on our projects and after gaining hands on experience on cutting edge technologies moving to contribute their skills to great clients like Apple, Google, Client, Ebay, Paypal, Kroger, the Walt Disney Company and hundreds more. If you are tired of working with inefficient programmers who take a lot of time to ramp up we want you to try us. Our software programmers can hit the ground running and get you the maximum return on your investment. You have already tried the rest its time you tried the best. SynergisticIT - Home of the Best Data Scientists and Software Programmers in the Bay Area.
+Why Us ?
+SynergisticIT has a proven track record of successfully skill enhancement and staffing IT employees for some of the world's most iconic brands. Our team takes the time to fully understand every client's needs so we could best meet your IT staffing requirements. The knowledgeable staff at SynergisticIT is always more than happy to work with clients to ensure they reach their software development goals. Besides staffing, SynergisticIT is also committed to helping young IT professionals advance their career with a robust upskill program . Everyone who goes through SynergisticIT's program learns all the skills necessary to succeed in many IT fields ranging from Java to Machine Learning. Additionally, everyone trained at SynergisticIT has been through extensive mock and technical interview screenings to bolster their career prospects. Last, but certainly not least, SynergisticIT takes great care to respect the privacy considerations for every client. All companies who work with SynergisticIT can rest assured their confidential data is protected using the most up-to-date encryption technologies. SynergisticIT also complies with all the latest NDA agreements.
+
+3**************************************************
+
+REQUIRED SKILLS For Java /Software Programmers
+For data Science/Machine learning
+
+4**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Time series analysis
+We regularly interact with the Top Tech companies to give our candidates a competitive advantage-Please see us exhibiting at Oracle Cloud world /Oracle Java one (Las vegas) -2022 and at Gartner Data Analytics Summit (Florida)-2023
+Oracle CloudWorld Event (OCW) Las Vegas 2022 | SynergisticIT - YouTube
+https://www.youtube.com/watch?v=OAFOhcGy9Z8
+https://www.youtube.com/watch?v=EmO7NrWHkLM
+https://www.youtube.com/watch?v=NVBU9RYZ6UI
+https://www.youtube.com/watch?v=Yy74yvjatVg
+SynergisticIT at Gartner Data and Analytics Summit 2023 - YouTube
+For preparing for interviews please visit https://www.synergisticit.com/interview-questions/
+We are looking for the right matching candidates for our clients
+Please apply via the job posting
+
+5**************************************************
+
+Preferred skills: NLP, Text mining, Tableau, PowerBI, Tensorflow
+If you get emails from our skill enhancement team please ask them to take you off their distribution list and make you unavailable as they share the same database with the client servicing team.
+
+__________________________________________________
+

@@ -135,7 +135,7 @@ def analyze_data(name_file):
     # Tokenize the combined text
     tokens = word_tokenize(all_requirements_combined)
 
-    # TODO: Add more text processing for present tense
+    # Add more text processing for present tense
     # present_tokens = [conjugate(word, tense=PRESENT) for word in tokens]
 
     # Lemmatization and remove purely numeric tokens
@@ -169,7 +169,7 @@ def analyze_data(name_file):
         "employee", "please", "take", "u", "review", "flexible" ,"closely", "medical", "email",
         "manager", "maintain", "synergisticit", "electrical", "minimum", "help", "infrastructure",
         "qualification", "leave", "participate", "supporting", "based", "startup", "comprehensive",
-        "world", "continuously", "make", "statistic", "share","growth", "ownership",
+        "world", "continuously", "make", "share","growth", "ownership",
         "implementation", "mobile", "looking", "existing", "web", "also", "creating", "per",
         "jobseekers", "customer", "someone", "love", "important", "helped", "care",
         "fully", "know", "market", "assist", "test", "status", "eligible", "ensure", "may", "area", "vehicle",
@@ -181,7 +181,8 @@ def analyze_data(name_file):
         "excellence","specific", "solve", "lead", "keep", "detail", "identify", "continuous","power",
         "global", "internal", "member", "able", "request" , "various", "operational", "attention", 
         "disability", "responsibility", "operation", "policy", "necessary" , "conduct", "workflow" ,
-        "department", "analyst", "operating", "employer", "location", "external", "source",
+        "department", "analyst", "operating", "employer", "location", "external", "source", "etl",
+        "offer", 
 
 
     ])
